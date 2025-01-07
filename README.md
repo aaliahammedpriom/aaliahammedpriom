@@ -4,12 +4,6 @@
 
 ---
 
-<div align="center">
-  <img src="https://github.com/aaliahammedpriom/aaliahammedpriom/blob/main/banner.png" alt="Banner" width="100%" />
-</div>
-
----
-
 <h2 align="center">Assalamualikum, My name is A Ali Ahammed Priom</h2>
 
 <h3 align="center">Junior MERN Stack Developer | Passionate Learner</h3>
@@ -19,13 +13,14 @@
 <h2 align="left">About Me</h2>
 
 <p align="left">
-As a junior (MERN) developer, I am continuously pushing boundaries, embracing challenges, and growing stronger with every line of code. I’m dedicated to learning new skills, solving problems, and delivering creative solutions in the world of web development. This is my path, my passion—my way!
+As a junior (MERN) developer, I am continuously pushing boundaries, embracing challenges, and growing stronger with every line of code. I’m dedicated to learning new skills, solving problems, and delivering creative solutions in the world of web development.Currently I am pursuing a Bachelor of Science (BSc) degree with a major in Cybersecurity. My academic focus complements my passion for creating secure and scalable web applications, as I aim to contribute to a safer cyberspace. This is my path, my passion—my way!
 </p>
 
+
 - 🔎 Exploring **Next.js** and building scalable applications.
-- 🎨 Currently designing a **Tourism Website**.
-- 🔧 Working on improving **data security** in web apps.
-- 🚀 Learning **Blockchain development** for decentralized apps.
+- 🎨 Currently designing a **Resturant Management Website**.
+- 🔧 Working on improving ** security** in web apps.
+- 🚀 Learning **Blockchain development, System Security** 
 
 ---
 
@@ -68,6 +63,16 @@ As a junior (MERN) developer, I am continuously pushing boundaries, embracing ch
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=aaliahammedpriom&repo=portfolio&theme=dracula" />
   </a>
 </div>
+
+
+## Open Source Projects
+
+| 🎁 Projects                                 | ⭐ Stars  | 🍴 Forks                 | 🔔 Issues        | 📊 Pull Requests  |
+|--------------------------------------------|----------|-------------------------|------------------|-------------------|
+| [Tourism Website](https://github.com/aaliahammedpriom/tourism-website) | ![Stars](https://img.shields.io/github/stars/aaliahammedpriom/tourism-website?style=social) | ![Forks](https://img.shields.io/github/forks/aaliahammedpriom/tourism-website?style=social) | ![Issues](https://img.shields.io/github/issues/aaliahammedpriom/tourism-website) | ![Pull Requests](https://img.shields.io/github/issues-pr/aaliahammedpriom/tourism-website) |
+| [Inventory Management](https://github.com/aaliahammedpriom/inventory-management) | ![Stars](https://img.shields.io/github/stars/aaliahammedpriom/inventory-management?style=social) | ![Forks](https://img.shields.io/github/forks/aaliahammedpriom/inventory-management?style=social) | ![Issues](https://img.shields.io/github/issues/aaliahammedpriom/inventory-management) | ![Pull Requests](https://img.shields.io/github/issues-pr/aaliahammedpriom/inventory-management) |
+| [Portfolio](https://github.com/aaliahammedpriom/portfolio) | ![Stars](https://img.shields.io/github/stars/aaliahammedpriom/portfolio?style=social) | ![Forks](https://img.shields.io/github/forks/aaliahammedpriom/portfolio?style=social) | ![Issues](https://img.shields.io/github/issues/aaliahammedpriom/portfolio) | ![Pull Requests](https://img.shields.io/github/issues-pr/aaliahammedpriom/portfolio) |
+
 
 ---
 
