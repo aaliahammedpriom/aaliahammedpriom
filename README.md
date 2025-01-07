@@ -5,7 +5,7 @@
 ---
 
 <h1 align="center" style="font-family: 'Trebuchet MS', sans-serif; color: #4CAF50;">Assalamualikum, I'm A Ali Ahammed Priom</h1>
-<h3 align="center" style="font-family: 'Lucida Console', Courier, monospace; color: #FF5733;">Junior MERN Stack Developer | Passionate Learner</h3>
+<!-- <h3 align="center" style="font-family: 'Lucida Console', Courier, monospace; color: #FF5733;">Junior MERN Stack Developer | Passionate Learner</h3> -->
 
 ---
 
