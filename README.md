@@ -9,114 +9,62 @@
 
 ---
 
-<div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=4000&pause=500&color=4CAF50&background=000000&vCenter=true&width=435&lines=Hello+World!+🌍;Junior+MERN+Developer;Passionate+Learner+%F0%9F%9A%80" alt="Typing SVG" />
+<!-- Sticky Navigation -->
+<div class="sticky-nav" style="position: -webkit-sticky; position: sticky; top: 0; background-color: #fff; z-index: 10; padding: 10px; box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);">
+  <h3 style="text-align: center; margin-bottom: 10px;">📚 Table of Contents</h3>
+  <ul style="list-style: none; padding: 0; margin: 0; font-size: 18px;">
+    <li><a href="#about-me">About Me</a></li>
+    <li><a href="#skills-tools">Skills & Tools</a></li>
+    <li><a href="#pinned-repositories">Pinned Repositories</a></li>
+    <li><a href="#portfolio">Portfolio</a></li>
+    <li><a href="#contact">Contact</a></li>
+    <li><a href="#github-stats">GitHub Stats</a></li>
+    <li><a href="#activity-graph">Activity Graph</a></li>
+  </ul>
 </div>
-
----
-
-## 📚 Table of Contents
-- [About Me](#-about-me)
-- [Skills & Tools](#-skills--tools)
-- [Pinned Repositories](#-pinned-repositories)
-- [Portfolio](#portfolio)
-- [Contact](#contact)
-- [GitHub Stats](#github-stats)
-- [Activity Graph](#activity-graph)
 
 ---
 
 ## 🧑‍💻 About Me
-
+<a id="about-me"></a>
 As a junior (MERN) developer, I am continuously pushing boundaries, embracing challenges, and growing stronger with every line of code. I’m dedicated to learning new skills, solving problems, and delivering creative solutions in the world of web development.
-
-- 🎓 Currently pursuing a **BSc in Cybersecurity** to complement my passion for building secure web applications.
-- 🔎 Exploring **Next.js** for scalable applications.
-- 🎨 Designing a **Restaurant Management Website**.
-- 🔧 Working on **web app security improvements**.
-- 🚀 Learning **Blockchain development and System Security**.
-
-🌟 **Fun Fact:** I love debugging code as much as solving puzzles in my free time!
 
 ---
 
 ## 🛠️ Skills & Tools
-
+<a id="skills-tools"></a>
 ### **Frontend:**
-<div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="HTML5 logo" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="CSS3 logo" />
-  <img src="https://cdn.simpleicons.org/tailwindcss/06B6D4" height="40" alt="Tailwind CSS logo" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="JavaScript logo" />
-  <img src="https://skillicons.dev/icons?i=react" height="40" alt="React logo" />
-</div>
+<!-- Skill icons here -->
 
 ### **Backend:**
-<div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="Node.js logo" />
-  <img src="https://skillicons.dev/icons?i=express" height="40" alt="Express.js logo" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" height="40" alt="Firebase logo" />
-</div>
-
-### **Database & Other Tools:**
-<div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="40" alt="MongoDB logo" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="Java logo" />
-</div>
+<!-- Skill icons here -->
 
 ---
 
 ## 📌 Pinned Repositories
-
-| 🎁 Projects                                 | ⭐ Stars  | 🍴 Forks                 | 🔔 Issues        | 📊 Pull Requests  | 🌐 Client Repo                                                                                                | ⚙️ Server Repo                                                                                               | 🔗 Live Link                                                | 🛠️ Tech Stack                              | ✨ Features                                    | 🚀 Future Enhancements                                   |
-|--------------------------------------------|----------|-------------------------|------------------|-------------------|--------------------------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------------------|-----------------------------------------------------------|---------------------------------------------|---------------------------------------------|----------------------------------------------------------|
-| [Tourism Website](https://github.com/aaliahammedpriom/tourism-website) | ![Stars](https://img.shields.io/github/stars/aaliahammedpriom/tourism-website?style=social) | ![Forks](https://img.shields.io/github/forks/aaliahammedpriom/tourism-website?style=social) | ![Issues](https://img.shields.io/github/issues/aaliahammedpriom/tourism-website) | ![Pull Requests](https://img.shields.io/github/issues-pr/aaliahammedpriom/tourism-website) | [GitHub](https://github.com/aaliahammedpriom/tourism-website-client) | [GitHub](https://github.com/aaliahammedpriom/tourism-website-server) | [Live](https://tourism-website.example.com) | React, TailwindCSS, Node.js, MongoDB      | User authentication, Travel booking system | Add real-time chat feature                               |
+<a id="pinned-repositories"></a>
+<!-- Pinned repos table here -->
 
 ---
 
 ## 🌐 Portfolio
-
+<a id="portfolio"></a>
 Check out my portfolio [here](https://celadon-fox-0f12a7.netlify.app/).
 
 ---
 
 ## 📞 Contact
-
-<div align="center" style="display: flex; gap: 10px;">
-  <a href="https://www.linkedin.com/in/a-ali-ahammed-priom-129273184/" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="47" height="35" alt="LinkedIn logo" />
-  </a>
-  <a href="mailto:aaliahammedpriom66@gmail.com" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="47" height="35" alt="Gmail logo" />
-  </a>
-  <a href="https://www.facebook.com/aaliahammedpriom66" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/facebook/default.svg" width="47" height="35" alt="Facebook logo" />
-  </a>
-  <a href="https://wa.me/8801607399345" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/whatsapp/default.svg" width="47" height="35" alt="WhatsApp logo" />
-  </a>
-</div>
+<a id="contact"></a>
+<!-- Contact info here -->
 
 ---
 
 ## 📊 GitHub Stats
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=aaliahammedpriom&show_icons=true&theme=dracula&hide_border=false" height="150" alt="GitHub stats" />
-  <img src="https://streak-stats.demolab.com?user=aaliahammedpriom&theme=dracula&hide_border=false" height="150" alt="Streak stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aaliahammedpriom&layout=compact&theme=dracula&hide_border=false" height="150" alt="Top languages" />
-</div>
+<a id="github-stats"></a>
+<!-- Stats here -->
 
 ---
 
 ## 🌟 Activity Graph
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=aaliahammedpriom&theme=react&area=true" height="300" alt="Activity Graph" />
-</div>
-
----
-
-<div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=aaliahammedpriom.aaliahammedpriom" alt="Visitor badge" />
-</div>
+<a id="activity-graph"></a>
+<!-- Activity graph here -->
