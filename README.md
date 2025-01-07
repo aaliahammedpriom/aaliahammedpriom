@@ -120,3 +120,37 @@ Check out my portfolio [here](https://celadon-fox-0f12a7.netlify.app/).
 <div align="center">
   <img src="https://visitor-badge.laobi.icu/badge?page_id=aaliahammedpriom.aaliahammedpriom" alt="Visitor badge" />
 </div>
+
+---
+
+## 🧑‍💻 Dynamic Table Content Example
+
+Here is a dynamic section for your table content with clickable buttons:
+
+```html
+<div>
+  <h3>📚 Table of Contents</h3>
+  <ul>
+    <li onclick="showContent('tourism')">Tourism Website</li>
+    <!-- More links can be added here -->
+  </ul>
+
+  <div id="tourism" style="display: none;">
+    <h3>Tourism Website</h3>
+    <p>This is a description of the tourism website project.</p>
+    <button onclick="alert('Tourism website button clicked!')">Tourism Website Button</button>
+  </div>
+
+  <!-- Additional content can go here -->
+</div>
+
+<script>
+  function showContent(id) {
+    var content = document.getElementById(id);
+    if (content.style.display === "none") {
+      content.style.display = "block";
+    } else {
+      content.style.display = "none";
+    }
+  }
+</script>
