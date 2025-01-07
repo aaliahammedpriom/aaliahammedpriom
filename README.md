@@ -1,5 +1,7 @@
 <div align="center">
-  <img height="200" style="border-radius: 50%; box-shadow: 0px 4px 8px rgba(0, 0, 0, 0.2);" src="https://i.ibb.co.com/K9W3Mrr/Black-Geometric-Marketing-Expert-Linked-In-Banner.png" />
+  <img 
+    style="width: 100%; height: auto; max-width: 100%; border-radius: 50%; box-shadow: 0px 4px 8px rgba(0, 0, 0, 0.2);" 
+    src="https://i.ibb.co.com/K9W3Mrr/Black-Geometric-Marketing-Expert-Linked-In-Banner.png" />
 </div>
 
 ---
