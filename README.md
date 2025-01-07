@@ -9,8 +9,8 @@
 
 ---
 
-<!-- Sticky Navigation -->
-<div class="sticky-nav" style="position: -webkit-sticky; position: sticky; top: 0; background-color: #fff; z-index: 10; padding: 10px; box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);">
+<!-- Sticky Navigation Section -->
+<div style="position: -webkit-sticky; position: sticky; top: 0; background-color: #fff; z-index: 100; padding: 10px; box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1); margin-bottom: 20px;">
   <h3 style="text-align: center; margin-bottom: 10px;">📚 Table of Contents</h3>
   <ul style="list-style: none; padding: 0; margin: 0; font-size: 18px;">
     <li><a href="#about-me">About Me</a></li>
