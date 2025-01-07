@@ -16,9 +16,9 @@
 ---
 
 ## 📚 Table of Contents
-- [About Me](#-about-me)
-- [Skills & Tools](#-skills--tools)
-- [Pinned Repositories](#-pinned-repositories)
+- [About Me](#about-me)
+- [Skills & Tools](#skills-tools)
+- [Pinned Repositories](#pinned-repositories)
 - [Portfolio](#portfolio)
 - [Contact](#contact)
 - [GitHub Stats](#github-stats)
@@ -26,7 +26,7 @@
 
 ---
 
-## 🧑‍💻 About Me
+## 🧑‍💻 About Me <a name="about-me"></a>
 
 As a junior (MERN) developer, I am continuously pushing boundaries, embracing challenges, and growing stronger with every line of code. I’m dedicated to learning new skills, solving problems, and delivering creative solutions in the world of web development.
 
@@ -40,7 +40,7 @@ As a junior (MERN) developer, I am continuously pushing boundaries, embracing ch
 
 ---
 
-## 🛠️ Skills & Tools
+## 🛠️ Skills & Tools <a name="skills-tools"></a>
 
 ### **Frontend:**
 <div align="center">
@@ -66,7 +66,7 @@ As a junior (MERN) developer, I am continuously pushing boundaries, embracing ch
 
 ---
 
-## 📌 Pinned Repositories
+## 📌 Pinned Repositories <a name="pinned-repositories"></a>
 
 | 🎁 Projects                                 | ⭐ Stars  | 🍴 Forks                 | 🔔 Issues        | 📊 Pull Requests  | 🌐 Client Repo                                                                                                | ⚙️ Server Repo                                                                                               | 🔗 Live Link                                                | 🛠️ Tech Stack                              | ✨ Features                                    | 🚀 Future Enhancements                                   |
 |--------------------------------------------|----------|-------------------------|------------------|-------------------|--------------------------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------------------|-----------------------------------------------------------|---------------------------------------------|---------------------------------------------|----------------------------------------------------------|
@@ -74,13 +74,13 @@ As a junior (MERN) developer, I am continuously pushing boundaries, embracing ch
 
 ---
 
-## 🌐 Portfolio
+## 🌐 Portfolio <a name="portfolio"></a>
 
 Check out my portfolio [here](https://celadon-fox-0f12a7.netlify.app/).
 
 ---
 
-## 📞 Contact
+## 📞 Contact <a name="contact"></a>
 
 <div align="center" style="display: flex; gap: 10px;">
   <a href="https://www.linkedin.com/in/a-ali-ahammed-priom-129273184/" target="_blank">
@@ -99,7 +99,7 @@ Check out my portfolio [here](https://celadon-fox-0f12a7.netlify.app/).
 
 ---
 
-## 📊 GitHub Stats
+## 📊 GitHub Stats <a name="github-stats"></a>
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=aaliahammedpriom&show_icons=true&theme=dracula&hide_border=false" height="150" alt="GitHub stats" />
@@ -109,7 +109,7 @@ Check out my portfolio [here](https://celadon-fox-0f12a7.netlify.app/).
 
 ---
 
-## 🌟 Activity Graph
+## 🌟 Activity Graph <a name="activity-graph"></a>
 
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=aaliahammedpriom&theme=react&area=true" height="300" alt="Activity Graph" />
@@ -120,6 +120,3 @@ Check out my portfolio [here](https://celadon-fox-0f12a7.netlify.app/).
 <div align="center">
   <img src="https://visitor-badge.laobi.icu/badge?page_id=aaliahammedpriom.aaliahammedpriom" alt="Visitor badge" />
 </div>
-
----
-
