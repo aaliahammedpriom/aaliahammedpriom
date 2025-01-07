@@ -72,6 +72,7 @@ As a junior (MERN) developer, I am continuously pushing boundaries, embracing ch
 |--------------------------------------------|--------------------------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------------------|-----------------------------------------------------------|---------------------------------------------|----------------------------------------------------------|
 | [Iron Wheel Website]| [GitHub](https://github.com/aaliahammedpriom/iron-wheel-client) | [GitHub](https://github.com/aaliahammedpriom/iron-wheel-server) | [Live](https://elegant-fox-192e45.netlify.app/)  | User authentication | Add comment feature       |
 | [Orchid Website]| [GitHub](https://github.com/aaliahammedpriom/orchid-client/) | [GitHub](https://github.com/aaliahammedpriom/orchid-server/) | [Live](https://stirring-salamander-eeaf34.netlify.app/)  | User authentication| Add comment feature       |
+| [EcoYeti Website]| [GitHub](https://github.com/aaliahammedpriom/eco-yeti) | ------------- | [Live](https://ecoyeti-51d59.web.app/)  | Normal Blog Site| User authentication,Add chat & comment feature       |
 
 
 ---
