@@ -132,6 +132,7 @@ Here is a dynamic section for your table content with clickable buttons:
   <h3>📚 Table of Contents</h3>
   <ul>
     <li onclick="showContent('tourism')">Tourism Website</li>
+    <li onclick="showContent('restaurant')">Restaurant Management</li>
     <!-- More links can be added here -->
   </ul>
 
@@ -141,16 +142,27 @@ Here is a dynamic section for your table content with clickable buttons:
     <button onclick="alert('Tourism website button clicked!')">Tourism Website Button</button>
   </div>
 
+  <div id="restaurant" style="display: none;">
+    <h3>Restaurant Management</h3>
+    <p>This is a description of the restaurant management system project.</p>
+    <button onclick="alert('Restaurant system button clicked!')">Restaurant Management Button</button>
+  </div>
+
   <!-- Additional content can go here -->
 </div>
 
 <script>
   function showContent(id) {
-    var content = document.getElementById(id);
-    if (content.style.display === "none") {
-      content.style.display = "block";
-    } else {
-      content.style.display = "none";
+    // Hide all sections first
+    var allSections = document.querySelectorAll('div[id]');
+    allSections.forEach(function(section) {
+      section.style.display = "none";
+    });
+
+    // Show the selected section
+    var selectedSection = document.getElementById(id);
+    if (selectedSection) {
+      selectedSection.style.display = "block";
     }
   }
 </script>
