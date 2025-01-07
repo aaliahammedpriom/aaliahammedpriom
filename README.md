@@ -108,6 +108,11 @@ Check out my portfolio [here](https://celadon-fox-0f12a7.netlify.app/).
 </div>
 
 ---
+## 🙏 Thanks for Visiting!
+
+Thanks for taking the time to check out my profile. Feel free to explore my repositories and projects. Don’t hesitate to reach out if you have any questions or want to collaborate on a project.
+
+---
 
 ## 🌟 Activity Graph <a name="activity-graph"></a>
 
