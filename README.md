@@ -54,15 +54,7 @@ As a junior (MERN) developer, I am continuously pushing boundaries, embracing ch
 
 ---
 
-## Getting Started
 
-### Tourism Website
-
-1. Clone the client-side repo:
-   ```bash
-   git clone https://github.com/aaliahammedpriom/tourism-website-client.git
-
----
 
 <h2 align="left" style="color: #03A9F4;">Contact</h2>
 
