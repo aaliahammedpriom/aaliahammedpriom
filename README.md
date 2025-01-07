@@ -10,7 +10,7 @@
 ---
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=4000&pause=500&color=4CAF50&background=000000&vCenter=true&width=435&lines=Hello+World!+🌍;Junior+MERN+Developer;Passionate+Learner+%F0%9F%9A%80" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=4000&pause=500&color=f76b92&background=000000&vCenter=true&width=435&lines=Hello+World!+🌍;Junior+MERN+Developer;Passionate+Learner+%F0%9F%9A%80" alt="Typing SVG" />
 </div>
 
 ---
@@ -40,8 +40,7 @@ As a junior (MERN) developer, I am continuously pushing boundaries, embracing ch
 
 ---
 
-## 🛠️ Skills & Tools <a name="skills-tools"></a>
-
+## 🛠️ Skills & Tools <a name="skills-tools"></a> 
 ### **Frontend:**
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="HTML5 logo" />
