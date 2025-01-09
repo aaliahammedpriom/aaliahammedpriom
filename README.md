@@ -87,7 +87,7 @@ Check out my portfolio [here](https://celadon-fox-0f12a7.netlify.app/).
 ## 📞 Contact <a name="contact"></a>
 
 <div align="center" style="display: flex; gap: 10px;">
-  <a href="https://www.linkedin.com/in/a-ali-ahammed-priom-129273184/" target="_blank">
+  <a href="https://www.linkedin.com/in/a-ali-ahammed-priom/" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="47" height="35" alt="LinkedIn logo" />
   </a>
   <a href="mailto:aaliahammedpriom66@gmail.com" target="_blank">
