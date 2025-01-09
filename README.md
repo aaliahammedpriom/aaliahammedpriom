@@ -132,4 +132,4 @@ Thanks for taking the time to check out my profile. Feel free to explore my repo
 </div>
 
 
-<iframe src="https://www.linkedin.com/embed/feed/update/urn:li:share:7283032098775441408" height="1154" width="504" frameborder="0" allowfullscreen="" title="Embedded post"></iframe>
+
