@@ -121,7 +121,6 @@ Check out my portfolio [here](https://celadon-fox-0f12a7.netlify.app/).
 </div>
 
 ---
-
 ## 🙏 Thanks for Visiting!
 
 Thanks for taking the time to check out my profile. Feel free to explore my repositories and projects. Don’t hesitate to reach out if you have any questions or want to collaborate on a project.
@@ -131,3 +130,6 @@ Thanks for taking the time to check out my profile. Feel free to explore my repo
 <div align="center">
   <img src="https://visitor-badge.laobi.icu/badge?page_id=aaliahammedpriom.aaliahammedpriom" alt="Visitor badge" />
 </div>
+
+
+<iframe src="https://www.linkedin.com/embed/feed/update/urn:li:share:7283032098775441408" height="1154" width="504" frameborder="0" allowfullscreen="" title="Embedded post"></iframe>
