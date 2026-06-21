@@ -98,7 +98,7 @@ Check out my portfolio [here](https://celadon-fox-0f12a7.netlify.app/).
   <a href="https://www.facebook.com/aaliahammedpriom66" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/facebook/default.svg" width="47" height="35" alt="Facebook logo" />
   </a>
-  <a href="https://wa.me/8801607399345" target="_blank">
+  <a href="https://wa.me/8801722395159" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/whatsapp/default.svg" width="47" height="35" alt="WhatsApp logo" />
   </a>
 </div>
