@@ -171,8 +171,6 @@ Backend-focused Full-Stack Developer at **Softvence Alpha** (a concern of Betopi
   <img src="https://raw.githubusercontent.com/aaliahammedpriom/aaliahammedpriom/output/github-contribution-grid-snake-dark.svg" alt="Contribution Snake animation" width="100%" />
 </div>
 
-> ⚙️ This one needs a **one-time setup** in your profile repo — see `snake-setup.md` in the shared files below for the exact steps and workflow file.
-
 <div align="center">
 
 🙏 Thanks for stopping by — feel free to explore my repos or reach out to collaborate.
