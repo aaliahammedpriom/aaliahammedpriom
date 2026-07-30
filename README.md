@@ -1,137 +1,248 @@
+# 🚀 GitHub Profile README
+
+```markdown
 <div align="center">
-  <img 
-    style="width: 100%; height: auto; max-width: 100%; border-radius: 50%; box-shadow: 0px 4px 8px rgba(0, 0, 0, 0.2);" 
-    src="https://i.ibb.co.com/K9W3Mrr/Black-Geometric-Marketing-Expert-Linked-In-Banner.png" />
+
+<img src="https://i.ibb.co.com/K9W3Mrr/Black-Geometric-Marketing-Expert-Linked-In-Banner.png" width="100%" />
+
+# 👋 Assalamu Alaikum, I'm A Ali Ahammed Priom
+
+### Full Stack Developer • DevOps Enthusiast • Cybersecurity Student
+
+<p>
+Building Secure, Scalable & Modern Web Applications 🚀
+</p>
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00F7FF&center=true&vCenter=true&width=700&lines=Full+Stack+Developer;Node.js+%7C+Express.js+%7C+Next.js;React+%7C+TypeScript+%7C+TailwindCSS;PostgreSQL+%7C+MongoDB+%7C+Prisma;Docker+%7C+Redis+%7C+Nginx+%7C+Linux;REST+API+Developer;Cybersecurity+Student;Always+Learning+New+Things+🚀" />
+
+<br>
+
+![](https://komarev.com/ghpvc/?username=aaliahammedpriom&label=Profile+Views&color=0e75b6&style=for-the-badge)
+
 </div>
 
 ---
 
-<h1 align="center" style="font-family: 'Trebuchet MS', sans-serif; color: #4CAF50;">Assalamualikum, I'm A Ali Ahammed Priom</h1>
-<!-- <h3 align="center" style="font-family: 'Lucida Console', Courier, monospace; color: #FF5733;">Junior MERN Stack Developer | Passionate Learner</h3> -->
+# 💫 About Me
+
+- 💼 Full Stack Developer at **Softvence Alpha (Betopia Group)**
+- 🎓 MSc in **Cyber Security** *(Ongoing)*
+- 🌱 Currently learning **Docker, Kubernetes, GraphQL, System Design & Ethical Hacking**
+- 🔥 Passionate about Backend Development & Web Security
+- ⚡ Love solving complex backend problems
+- 🚀 Interested in DevOps, Cloud & Blockchain Technologies
+
+---
+
+# 💼 Experience
+
+## Full Stack Developer
+
+**Softvence Alpha (Betopia Group)**
+
+📅 Nov 2025 - Present
+
+### Responsibilities
+
+- Enterprise ERP Development
+- REST API Development
+- PostgreSQL Database Design
+- Prisma ORM
+- Docker
+- Redis
+- VPS Deployment
+- Ubuntu Linux Server
+- Nginx Configuration
+- PM2 Process Management
+- GitHub Actions CI/CD
+- Payment Gateway Integration
+- Bug Fixing & Production Maintenance
+
+---
+
+# 🚀 Tech Stack
+
+## 💻 Frontend
+
+<p align="left">
+
+<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,materialui" />
+
+</p>
+
+---
+
+## ⚙️ Backend
+
+<p align="left">
+
+<img src="https://skillicons.dev/icons?i=nodejs,express,laravel,firebase" />
+
+</p>
+
+---
+
+## 🗄️ Database
+
+<p align="left">
+
+<img src="https://skillicons.dev/icons?i=postgres,mongodb,redis" />
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/prisma/prisma-original.svg" height="48"/>
+
+</p>
+
+---
+
+## ☁️ DevOps
+
+<p align="left">
+
+<img src="https://skillicons.dev/icons?i=docker,linux,ubuntu,nginx,githubactions,git,bash" />
+
+</p>
+
+---
+
+## 🔒 Security
+
+- JWT Authentication
+- Firebase Authentication
+- Kinde Auth
+- Role Based Authorization
+- OWASP Fundamentals
+- Secure REST APIs
+- Web Security Best Practices
+
+---
+
+## 🛠 Tools
+
+<p align="left">
+
+<img src="https://skillicons.dev/icons?i=git,github,vscode,postman,figma" />
+
+</p>
+
+---
+
+# 🌱 Currently Learning
+
+- Docker Swarm
+- Kubernetes
+- GraphQL
+- RabbitMQ
+- Microservices
+- System Design
+- Ethical Hacking
+- Blockchain Development
+- AI Integration
+
+---
+
+# 🚀 Featured Projects
+
+| Project | Description | Tech Stack |
+|----------|-------------|------------|
+| Think Loop | MERN Community Forum | React, Node.js, MongoDB |
+| Restaurant Management System | Enterprise Restaurant Platform | Next.js, PostgreSQL |
+| ERP System | Enterprise Resource Planning | Node.js, Prisma, PostgreSQL |
+| Iron Wheel | Car Marketplace | MERN Stack |
+| Orchid | E-Commerce Platform | MERN Stack |
+| EcoYeti | Blog Platform | React |
+| Taskly | Task Management System | MERN Stack |
+
+---
+
+# 📊 GitHub Analytics
+
+<div align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=aaliahammedpriom&show_icons=true&theme=tokyonight&hide_border=true"/>
+
+<img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=aaliahammedpriom&theme=tokyonight&hide_border=true"/>
+
+</div>
+
+<br>
+
+<div align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aaliahammedpriom&layout=compact&theme=tokyonight&hide_border=true"/>
+
+</div>
+
+---
+
+# 🏆 GitHub Trophies
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=aaliahammedpriom&theme=algolia&no-frame=true&margin-w=10&margin-h=10&row=2&column=4"/>
+
+</div>
+
+---
+
+# 📈 Contribution Graph
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=aaliahammedpriom&theme=tokyo-night&area=true&hide_border=true"/>
+
+</div>
+
+---
+
+# 🐍 Contribution Snake
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/aaliahammedpriom/aaliahammedpriom/output/github-contribution-grid-snake-dark.svg" />
+
+</div>
+
+> **Note:** Enable a GitHub Action to generate the snake animation.
+
+---
+
+# 🌍 Connect With Me
+
+<p align="center">
+
+<a href="https://www.linkedin.com/in/a-ali-ahammed-priom/">
+<img src="https://skillicons.dev/icons?i=linkedin"/>
+</a>
+
+<a href="mailto:aaliahammedpriom66@gmail.com">
+<img src="https://skillicons.dev/icons?i=gmail"/>
+</a>
+
+<a href="https://github.com/aaliahammedpriom">
+<img src="https://skillicons.dev/icons?i=github"/>
+</a>
+
+<a href="https://www.facebook.com/aaliahammedpriom66">
+<img src="https://skillicons.dev/icons?i=facebook"/>
+</a>
+
+</p>
+
+---
+
+# 💬 Quote
+
+> **"Code is not just about making software work; it's about solving real-world problems securely, efficiently, and elegantly."**
 
 ---
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=4000&pause=500&color=f76b92&background=000000&vCenter=true&width=435&lines=Hello+World!+🌍;Junior+MERN+Developer;Passionate+Learner+%F0%9F%9A%80" alt="Typing SVG" />
+
+### ⭐ Thanks for visiting my profile!
+
+If you like my work, consider giving a ⭐ to my repositories.
+
+Happy Coding 🚀
+
 </div>
-
----
-
-## 📚 Table of Contents
-- [About Me](#about-me)
-- [Skills & Tools](#skills-tools)
-- [Pinned Repositories](#pinned-repositories)
-- [Portfolio](#portfolio)
-- [Contact](#contact)
-- [GitHub Stats](#github-stats)
-- [Activity Graph](#activity-graph)
-
----
-
-## 🧑‍💻 About Me <a name="about-me"></a>
-
-As a junior (MERN) developer, I am continuously pushing boundaries, embracing challenges, and growing stronger with every line of code. I’m dedicated to learning new skills, solving problems, and delivering creative solutions in the world of web development.
-
-- 🎓 Currently pursuing a **BSc in Cybersecurity** to complement my passion for building secure web applications.
-- 🔎 Exploring **Next.js** for scalable applications.
-- 🎨 Designing a **Restaurant Management Website**.
-- 🔧 Working on **web app security improvements**.
-- 🚀 Learning **Blockchain development and System Security**.
-
-🌟 **Fun Fact:** I love debugging code as much as solving puzzles in my free time!
-
----
-
-## 🛠️ Skills & Tools <a name="skills-tools"></a> 
-### **Frontend:**
-<div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="HTML5 logo" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="CSS3 logo" />
-  <img src="https://cdn.simpleicons.org/tailwindcss/06B6D4" height="40" alt="Tailwind CSS logo" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="JavaScript logo" />
-  <img src="https://skillicons.dev/icons?i=react" height="40" alt="React logo" />
-</div>
-
-### **Backend:**
-<div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="Node.js logo" />
-  <img src="https://skillicons.dev/icons?i=express" height="40" alt="Express.js logo" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" height="40" alt="Firebase logo" />
-</div>
-
-### **Database & Other Tools:**
-<div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="40" alt="MongoDB logo" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="Java logo" />
-</div>
-
----
-
-## 📌 Pinned Repositories <a name="pinned-repositories"></a>
-
-| 🎁 Projects                                 | 🌐 Client Repo                                                                                                | ⚙️ Server Repo                                                                                               | 🔗 Live Link                                                | ✨ Features                                    | 🚀 Future Enhancements                                   |
-|--------------------------------------------|--------------------------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------------------|-----------------------------------------------------------|---------------------------------------------|----------------------------------------------------------|
-| [MERN Forum Project] | [GitHub](https://github.com/aaliahammedpriom/think-loop-client) | [GitHub](https://github.com/aaliahammedpriom/think-loop-server) | [Live](https://mellow-mandazi-3e1f97.netlify.app/) | User authentication, Post interactions, Admin controls, Role-based access | Enhanced comment reporting, Real-time notifications, Advanced analytics |
-| [Iron Wheel Website]| [GitHub](https://github.com/aaliahammedpriom/iron-wheel-client) | [GitHub](https://github.com/aaliahammedpriom/iron-wheel-server) | [Live](https://elegant-fox-192e45.netlify.app/)  | User authentication | Add comment feature       |
-| [Orchid Website]| [GitHub](https://github.com/aaliahammedpriom/orchid-client/) | [GitHub](https://github.com/aaliahammedpriom/orchid-server/) | [Live](https://stirring-salamander-eeaf34.netlify.app/)  | User authentication| Add comment feature       |
-| [EcoYeti Website]| [GitHub](https://github.com/aaliahammedpriom/eco-yeti) | ------------- | [Live](https://ecoyeti-51d59.web.app/)  | Normal Blog Site| User authentication, Add chat & comment feature       |
-| [Taskly - Task Management Application] | [GitHub](https://github.com/aaliahammedpriom/taskly-client) | [GitHub](https://github.com/aaliahammedpriom/taskly-server) | [Live](https://taskly-66.web.app/) | Task management, Drag-and-drop interface, Firebase Authentication | Add task prioritization, Notifications, and Search features |
-
-
----
-
-## 🌐 Portfolio <a name="portfolio"></a>
-
-Check out my portfolio [here](https://celadon-fox-0f12a7.netlify.app/).
-
----
-
-## 📞 Contact <a name="contact"></a>
-
-<div align="center" style="display: flex; gap: 10px;">
-  <a href="https://www.linkedin.com/in/a-ali-ahammed-priom/" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="47" height="35" alt="LinkedIn logo" />
-  </a>
-  <a href="mailto:aaliahammedpriom66@gmail.com" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="47" height="35" alt="Gmail logo" />
-  </a>
-  <a href="https://www.facebook.com/aaliahammedpriom66" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/facebook/default.svg" width="47" height="35" alt="Facebook logo" />
-  </a>
-  <a href="https://wa.me/8801722395159" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/whatsapp/default.svg" width="47" height="35" alt="WhatsApp logo" />
-  </a>
-</div>
-
----
-
-## 📊 GitHub Stats <a name="github-stats"></a>
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=aaliahammedpriom&show_icons=true&theme=dracula&hide_border=false" height="150" alt="GitHub stats" />
-  <img src="https://streak-stats.demolab.com?user=aaliahammedpriom&theme=dracula&hide_border=false" height="150" alt="Streak stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aaliahammedpriom&layout=compact&theme=dracula&hide_border=false" height="150" alt="Top languages" />
-</div>
-
----
-
-
-## 🌟 Activity Graph <a name="activity-graph"></a>
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=aaliahammedpriom&theme=react&area=true" height="300" alt="Activity Graph" />
-</div>
-
----
-## 🙏 Thanks for Visiting!
-
-Thanks for taking the time to check out my profile. Feel free to explore my repositories and projects. Don’t hesitate to reach out if you have any questions or want to collaborate on a project.
-
----
-
-<div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=aaliahammedpriom.aaliahammedpriom" alt="Visitor badge" />
-</div>
-
-
-
+```
