@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://i.ibb.co.com/K9W3Mrr/Black-Geometric-Marketing-Expert-Linked-In-Banner.png" width="100%" style="border-radius: 12px;" />
+<img src="https://i.ibb.co.com/3mtyNS92/priom-banner.png" width="100%" style="border-radius: 12px;" />
 
 <br/><br/>
 
