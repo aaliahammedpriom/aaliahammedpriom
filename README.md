@@ -153,16 +153,16 @@ Backend-focused Full-Stack Developer at **Softvence Alpha** (a concern of Betopi
 <img src="https://capsule-render.vercel.app/api?type=transparent&color=auto&height=70&section=header&text=GitHub%20Stats&fontSize=32&fontColor=00F5FF&fontAlignY=45&desc=%3E_fetch%20--stats&descAlignY=68&descColor=8892b0" width="100%"/>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=aaliahammedpriom&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&border_radius=10&count_private=true" height="165" alt="GitHub stats" />
-  <img src="https://streak-stats.demolab.com?user=aaliahammedpriom&theme=tokyonight&hide_border=true&background=0D1117&border_radius=10" height="165" alt="Streak stats" />
+  <img src="https://github-readme-stats-fast.vercel.app/api?username=aaliahammedpriom&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&border_radius=10&count_private=true&cache_seconds=1800" height="165" alt="GitHub stats" />
+  <img src="https://github-readme-streak-stats-eight.vercel.app/?user=aaliahammedpriom&theme=tokyonight&hide_border=true&background=0D1117&border_radius=10" height="165" alt="Streak stats" />
 </div>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aaliahammedpriom&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&border_radius=10" height="165" alt="Top languages" />
+  <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=aaliahammedpriom&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&border_radius=10&cache_seconds=1800" height="165" alt="Top languages" />
 </div>
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=aaliahammedpriom&theme=tokyonight&no-frame=true&margin-w=8&row=1" alt="GitHub Trophies" />
+  <img src="https://github-profile-trophy-winning.vercel.app/?username=aaliahammedpriom&theme=tokyonight&no-frame=true&margin-w=8&row=1" alt="GitHub Trophies" />
 </div>
 
 <div align="center">
