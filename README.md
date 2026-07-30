@@ -162,10 +162,6 @@ Backend-focused Full-Stack Developer at **Softvence Alpha** (a concern of Betopi
 </div>
 
 <div align="center">
-  <img src="https://github-profile-trophy-winning.vercel.app/?username=aaliahammedpriom&theme=tokyonight&no-frame=true&margin-w=8&row=1" alt="GitHub Trophies" />
-</div>
-
-<div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=aaliahammedpriom&theme=tokyo-night&hide_border=true&bg_color=0D1117&area=true" height="300" alt="Activity Graph" />
 </div>
 
