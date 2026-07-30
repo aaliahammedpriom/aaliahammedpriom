@@ -169,6 +169,14 @@ Backend-focused Full-Stack Developer at **Softvence Alpha** (a concern of Betopi
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=aaliahammedpriom&theme=tokyo-night&hide_border=true&bg_color=0D1117&area=true" height="300" alt="Activity Graph" />
 </div>
 
+<img src="https://capsule-render.vercel.app/api?type=transparent&color=auto&height=70&section=header&text=Contribution%20Snake&fontSize=28&fontColor=00F5FF&fontAlignY=45&desc=%3E_render%20--animated&descAlignY=68&descColor=8892b0" width="100%"/>
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/aaliahammedpriom/aaliahammedpriom/output/github-contribution-grid-snake-dark.svg" alt="Contribution Snake animation" width="100%" />
+</div>
+
+> ⚙️ This one needs a **one-time setup** in your profile repo — see `snake-setup.md` in the shared files below for the exact steps and workflow file.
+
 <div align="center">
 
 🙏 Thanks for stopping by — feel free to explore my repos or reach out to collaborate.
