@@ -1,4 +1,4 @@
-<div align="center">
+**<div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=6&section=header" width="100%"/>
 
@@ -186,3 +186,4 @@ Backend-focused Full-Stack Developer at **Softvence Alpha** (a concern of Betopi
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=6&section=footer" width="100%"/>
 
 </div>
+**
