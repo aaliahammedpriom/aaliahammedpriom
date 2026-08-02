@@ -23,7 +23,8 @@ Backend-focused Full-Stack Developer at **Softvence Alpha** (a concern of Betopi
 
 - 🎓 Pursuing an **MSc in Cyber Security** at Daffodil International University, on top of a BSc in Software Engineering
 - 📲 Hands-on production experience integrating the **Meta Business Platform & WhatsApp Cloud API** — webhooks, templates, OTP verification, and messaging systems
-- 💳 Built production integrations with **Xero Accounting API & Stripe** — OAuth 2.0, invoice automation, and payment/webhook workflows
+- 💳 Built production integrations with **Xero Accounting API, Stripe & Freshdesk** — OAuth 2.0, invoice automation, payment/webhook workflows, and support-ticket synchronization
+- 🌐 Background in **PHP/Laravel web development, cPanel hosting administration, and SEO optimization** for production websites
 - 🔐 Actively moving deeper into **DevOps and application security** — Docker, CI/CD, OWASP fundamentals, secure API design
 - 📚 Currently exploring **Kubernetes, GraphQL, RabbitMQ, microservices, system design, ethical hacking, and blockchain**
 - 📄 Enjoy writing detailed **bilingual (English + Bangla)** technical documentation and study guides
@@ -42,6 +43,7 @@ Backend-focused Full-Stack Developer at **Softvence Alpha** (a concern of Betopi
 [![React](https://img.shields.io/badge/REACT-61DAFB?style=for-the-badge&logo=react&logoColor=61DAFB&labelColor=0D1117)](https://react.dev/)
 [![Next.js](https://img.shields.io/badge/NEXT.JS-000000?style=for-the-badge&logo=nextdotjs&logoColor=white&labelColor=0D1117)](https://nextjs.org/)
 [![Tailwind CSS](https://img.shields.io/badge/TAILWIND-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=06B6D4&labelColor=0D1117)](https://tailwindcss.com/)
+[![Bootstrap](https://img.shields.io/badge/BOOTSTRAP-7952B3?style=for-the-badge&logo=bootstrap&logoColor=7952B3&labelColor=0D1117)](https://getbootstrap.com/)
 [![Material UI](https://img.shields.io/badge/MUI-007FFF?style=for-the-badge&logo=mui&logoColor=007FFF&labelColor=0D1117)](https://mui.com/)
 
 <br/>
@@ -50,6 +52,8 @@ Backend-focused Full-Stack Developer at **Softvence Alpha** (a concern of Betopi
 <br/>
 [![Node.js](https://img.shields.io/badge/NODE.JS-339933?style=for-the-badge&logo=nodedotjs&logoColor=339933&labelColor=0D1117)](https://nodejs.org/)
 [![Express](https://img.shields.io/badge/EXPRESS-000000?style=for-the-badge&logo=express&logoColor=white&labelColor=0D1117)](https://expressjs.com/)
+[![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=777BB4&labelColor=0D1117)](https://www.php.net/)
+[![Laravel](https://img.shields.io/badge/LARAVEL-FF2D20?style=for-the-badge&logo=laravel&logoColor=FF2D20&labelColor=0D1117)](https://laravel.com/)
 [![Prisma](https://img.shields.io/badge/PRISMA-2D3748?style=for-the-badge&logo=prisma&logoColor=white&labelColor=0D1117)](https://www.prisma.io/)
 [![JWT](https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white&labelColor=0D1117)](https://jwt.io/)
 [![Firebase](https://img.shields.io/badge/FIREBASE-FFCA28?style=for-the-badge&logo=firebase&logoColor=FFCA28&labelColor=0D1117)](https://firebase.google.com/)
@@ -84,6 +88,7 @@ Backend-focused Full-Stack Developer at **Softvence Alpha** (a concern of Betopi
 [![OWASP](https://img.shields.io/badge/OWASP-000000?style=for-the-badge&logo=owasp&logoColor=white&labelColor=0D1117)](https://owasp.org/)
 [![Stripe](https://img.shields.io/badge/STRIPE-635BFF?style=for-the-badge&logo=stripe&logoColor=635BFF&labelColor=0D1117)](https://stripe.com/)
 [![Xero](https://img.shields.io/badge/XERO-13B5EA?style=for-the-badge&logo=xero&logoColor=13B5EA&labelColor=0D1117)](https://www.xero.com/)
+[![Freshdesk](https://img.shields.io/badge/FRESHDESK-000000?style=for-the-badge&logo=freshdesk&logoColor=white&labelColor=0D1117)](https://www.freshworks.com/freshdesk/)
 [![OAuth](https://img.shields.io/badge/OAUTH_2.0-000000?style=for-the-badge&logo=auth0&logoColor=white&labelColor=0D1117)](https://oauth.net/2/)
 [![Cloudinary](https://img.shields.io/badge/CLOUDINARY-3448C5?style=for-the-badge&logo=cloudinary&logoColor=3448C5&labelColor=0D1117)](https://cloudinary.com/)
 [![Postman](https://img.shields.io/badge/POSTMAN-FF6C37?style=for-the-badge&logo=postman&logoColor=FF6C37&labelColor=0D1117)](https://www.postman.com/)
@@ -126,11 +131,24 @@ Backend-focused Full-Stack Developer at **Softvence Alpha** (a concern of Betopi
 
 </div>
 
-> **Xero Accounting API:** OAuth 2.0 authentication, organization connection, contact synchronization, invoice creation, and automated invoice email delivery
+> **Xero Accounting API (Marcus/GetSurf project):** OAuth 2.0 authentication, organization connection, contact and customer synchronization, and automated invoice creation, email delivery, and invoice workflow automation
 >
-> **Stripe:** Checkout/payment workflows through Xero invoices, payment confirmation, webhook handling, and automatic credit balance updates
+> **Stripe:** Checkout flow through Xero invoices, payment confirmation, webhook processing, and automatic credit balance updates
 >
 > **Backend Implementation:** Debugging authentication and access-token handling across third-party financial API integrations for reliable, production-grade payment automation
+
+<img src="https://capsule-render.vercel.app/api?type=transparent&color=auto&height=70&section=header&text=Support%20%26%20Ticketing%20Integrations&fontSize=26&fontColor=B026FF&fontAlignY=45&desc=%3E_cat%20./support.log&descAlignY=68&descColor=8892b0" width="100%"/>
+
+<div align="center">
+
+[![Freshdesk](https://img.shields.io/badge/FRESHDESK_TICKETING_API-000000?style=for-the-badge&logo=freshdesk&logoColor=white&labelColor=0D1117)](https://developers.freshdesk.com/api/)
+[![Freshdesk Chat](https://img.shields.io/badge/FRESHDESK_CHAT_API-000000?style=for-the-badge&logo=freshdesk&logoColor=white&labelColor=0D1117)](https://developers.freshdesk.com/)
+
+</div>
+
+> **Freshdesk (RMSYM project):** Ticketing and Chat API integration — ticket creation, retrieval, updates, status management, and synchronization
+>
+> **Backend Implementation:** Secure API authentication, backend endpoint development, and third-party API debugging to support customer support workflows
 
 <img src="https://capsule-render.vercel.app/api?type=transparent&color=auto&height=70&section=header&text=Currently%20Learning&fontSize=32&fontColor=B026FF&fontAlignY=45&desc=%3E_status%20--in-progress&descAlignY=68&descColor=8892b0" width="100%"/>
 
@@ -146,16 +164,20 @@ Backend-focused Full-Stack Developer at **Softvence Alpha** (a concern of Betopi
 `Nov 2025 – Present`
 - Developing and maintaining scalable web apps with the MERN Stack and Next.js
 - Designing and integrating REST APIs with Node.js, Express.js, MongoDB, PostgreSQL, and Prisma ORM
-- Built end-to-end Xero Accounting API integration — OAuth 2.0 auth, organization connection, contact sync, invoice creation, and automated invoice email delivery
-- Integrated Stripe payments into Xero invoices, including checkout/payment workflows, webhook handling, and automatic credit balance updates
+- Built end-to-end Xero Accounting API integration for the Marcus/GetSurf project — OAuth 2.0 auth, organization connection, contact and customer synchronization, and automated invoice creation, email delivery, and workflow automation
+- Integrated Stripe payments into Xero invoices, including checkout flow, webhook processing, and automatic credit balance updates
 - Implemented Meta WhatsApp Cloud API notification workflows for OTP verification and transactional messaging (customer and instructor flows)
-- Deploying and maintaining production apps on a Hostinger VPS with Ubuntu, Nginx, PM2, SSL, and Docker
-- Configuring Nginx reverse proxy, DNS/domain management, and production environment maintenance
+- Integrated Freshdesk Ticketing and Chat APIs for the RMSYM project — ticket creation, retrieval, updates, status management, and synchronization for customer support workflows
+- Deploying and maintaining production apps on a Hostinger VPS with Ubuntu, Nginx, PM2, SSL, and Docker, including reverse proxy configuration and DNS/domain management
 
 **◈ Junior Full Stack Developer** — Innovative IT Solutions Limited
 `Jul 2025 – Oct 2025`
-- Built and maintained React (MERN) and Laravel websites
+- Developed and maintained React (MERN) and Laravel/PHP web applications, fixing production bugs and implementing new features
 - Implemented secure authentication, authorization, and role-based access control (RBAC)
+- Optimized database queries and application performance, improving page load speed and overall user experience
+- Performed SEO optimization to improve search engine visibility for production websites
+- Managed hosting environments via cPanel, including domains, email accounts, databases, and file management
+- Maintained production websites and resolved live server issues, ensuring reliable uptime
 
 <img src="https://capsule-render.vercel.app/api?type=transparent&color=auto&height=70&section=header&text=Pinned%20Repositories&fontSize=30&fontColor=B026FF&fontAlignY=45&desc=%3E_ls%20./projects&descAlignY=68&descColor=8892b0" width="100%"/>
 
