@@ -23,6 +23,7 @@ Backend-focused Full-Stack Developer at **Softvence Alpha** (a concern of Betopi
 
 - 🎓 Pursuing an **MSc in Cyber Security** at Daffodil International University, on top of a BSc in Software Engineering
 - 📲 Hands-on production experience integrating the **Meta Business Platform & WhatsApp Cloud API** — webhooks, templates, OTP verification, and messaging systems
+- 💳 Built production integrations with **Xero Accounting API & Stripe** — OAuth 2.0, invoice automation, and payment/webhook workflows
 - 🔐 Actively moving deeper into **DevOps and application security** — Docker, CI/CD, OWASP fundamentals, secure API design
 - 📚 Currently exploring **Kubernetes, GraphQL, RabbitMQ, microservices, system design, ethical hacking, and blockchain**
 - 📄 Enjoy writing detailed **bilingual (English + Bangla)** technical documentation and study guides
@@ -82,6 +83,8 @@ Backend-focused Full-Stack Developer at **Softvence Alpha** (a concern of Betopi
 <br/>
 [![OWASP](https://img.shields.io/badge/OWASP-000000?style=for-the-badge&logo=owasp&logoColor=white&labelColor=0D1117)](https://owasp.org/)
 [![Stripe](https://img.shields.io/badge/STRIPE-635BFF?style=for-the-badge&logo=stripe&logoColor=635BFF&labelColor=0D1117)](https://stripe.com/)
+[![Xero](https://img.shields.io/badge/XERO-13B5EA?style=for-the-badge&logo=xero&logoColor=13B5EA&labelColor=0D1117)](https://www.xero.com/)
+[![OAuth](https://img.shields.io/badge/OAUTH_2.0-000000?style=for-the-badge&logo=auth0&logoColor=white&labelColor=0D1117)](https://oauth.net/2/)
 [![Cloudinary](https://img.shields.io/badge/CLOUDINARY-3448C5?style=for-the-badge&logo=cloudinary&logoColor=3448C5&labelColor=0D1117)](https://cloudinary.com/)
 [![Postman](https://img.shields.io/badge/POSTMAN-FF6C37?style=for-the-badge&logo=postman&logoColor=FF6C37&labelColor=0D1117)](https://www.postman.com/)
 
@@ -112,6 +115,23 @@ Backend-focused Full-Stack Developer at **Softvence Alpha** (a concern of Betopi
 >
 > **Practical use cases:** OTP verification, automated notifications, transactional & marketing messaging, real-time delivery tracking, phone number setup and template lifecycle management
 
+<img src="https://capsule-render.vercel.app/api?type=transparent&color=auto&height=70&section=header&text=Payments%20%26%20Accounting%20Integrations&fontSize=26&fontColor=00F5FF&fontAlignY=45&desc=%3E_cat%20./payments.log&descAlignY=68&descColor=8892b0" width="100%"/>
+
+<div align="center">
+
+[![Xero](https://img.shields.io/badge/XERO_ACCOUNTING_API-13B5EA?style=for-the-badge&logo=xero&logoColor=13B5EA&labelColor=0D1117)](https://developer.xero.com/)
+[![Stripe](https://img.shields.io/badge/STRIPE_PAYMENTS-635BFF?style=for-the-badge&logo=stripe&logoColor=635BFF&labelColor=0D1117)](https://stripe.com/)
+[![OAuth 2.0](https://img.shields.io/badge/OAUTH_2.0-000000?style=for-the-badge&logo=auth0&logoColor=white&labelColor=0D1117)](https://oauth.net/2/)
+[![Webhooks](https://img.shields.io/badge/WEBHOOKS-FF4785?style=for-the-badge&logo=webhooks&logoColor=FF4785&labelColor=0D1117)](https://developers.facebook.com/docs/graph-api/webhooks)
+
+</div>
+
+> **Xero Accounting API:** OAuth 2.0 authentication, organization connection, contact synchronization, invoice creation, and automated invoice email delivery
+>
+> **Stripe:** Checkout/payment workflows through Xero invoices, payment confirmation, webhook handling, and automatic credit balance updates
+>
+> **Backend Implementation:** Debugging authentication and access-token handling across third-party financial API integrations for reliable, production-grade payment automation
+
 <img src="https://capsule-render.vercel.app/api?type=transparent&color=auto&height=70&section=header&text=Currently%20Learning&fontSize=32&fontColor=B026FF&fontAlignY=45&desc=%3E_status%20--in-progress&descAlignY=68&descColor=8892b0" width="100%"/>
 
 <div align="center">
@@ -126,6 +146,9 @@ Backend-focused Full-Stack Developer at **Softvence Alpha** (a concern of Betopi
 `Nov 2025 – Present`
 - Developing and maintaining scalable web apps with the MERN Stack and Next.js
 - Designing and integrating REST APIs with Node.js, Express.js, MongoDB, PostgreSQL, and Prisma ORM
+- Built end-to-end Xero Accounting API integration — OAuth 2.0 auth, organization connection, contact sync, invoice creation, and automated invoice email delivery
+- Integrated Stripe payments into Xero invoices, including checkout/payment workflows, webhook handling, and automatic credit balance updates
+- Implemented Meta WhatsApp Cloud API notification workflows for OTP verification and transactional messaging (customer and instructor flows)
 - Deploying and maintaining production apps on a Hostinger VPS with Ubuntu, Nginx, PM2, SSL, and Docker
 - Configuring Nginx reverse proxy, DNS/domain management, and production environment maintenance
 
