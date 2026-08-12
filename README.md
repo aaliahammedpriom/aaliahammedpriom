@@ -10,7 +10,7 @@
 
 <br/>
 
-[![LinkedIn](https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=00F5FF&labelColor=0D1117)](https://www.linkedin.com/in/a-ali-ahammed-priom/)
+[![LinkedIn](https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/a-ali-ahammed-priom/)
 [![Gmail](https://img.shields.io/badge/EMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=00F5FF&labelColor=0D1117)](mailto:aaliahammedpriom66@gmail.com)
 [![GitHub](https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&logo=github&logoColor=00F5FF&labelColor=0D1117)](https://github.com/aaliahammedpriom)
 [![WhatsApp](https://img.shields.io/badge/WHATSAPP-25D366?style=for-the-badge&logo=whatsapp&logoColor=00F5FF&labelColor=0D1117)](https://wa.me/8801722395159)
