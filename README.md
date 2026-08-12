@@ -187,7 +187,7 @@ Backend-focused Full-Stack Developer at **Softvence Alpha** (a concern of Betopi
 
 ---
 
-**◈ Executive MERN Full Stack Developer** — Softvence Alpha (a concern of Betopia Group)
+**◈ MERN Full Stack Developer** — Softvence Alpha (a concern of Betopia Group)
 `Nov 2025 – Present`
 - Developing and maintaining scalable web apps with the MERN Stack and Next.js
 - Designing and integrating REST APIs with Node.js, Express.js, MongoDB, PostgreSQL, and Prisma ORM
@@ -378,13 +378,89 @@ A secure backend API for **workforce and payroll management** — contractor/dri
 
 <br/>
 
-| Project | Client | Server | Live | Highlights |
-|---|---|---|---|---|
-| **Think Loop** (MERN Forum) | [Repo](https://github.com/aaliahammedpriom/think-loop-client) | [Repo](https://github.com/aaliahammedpriom/think-loop-server) | [Live](https://mellow-mandazi-3e1f97.netlify.app/) | Auth, post interactions, admin controls, role-based access |
-| **HandsOn Volunteering Platform** | [Repo](https://github.com/aaliahammedpriom/hands-on-volunteering-platform-client) | [Repo](https://github.com/aaliahammedpriom/hands-on-volunteering-platform-server) | — | Event registration, messaging, contribution tracking |
-| **Iron Wheel Website** | [Repo](https://github.com/aaliahammedpriom/iron-wheel-client) | [Repo](https://github.com/aaliahammedpriom/iron-wheel-server) | [Live](https://elegant-fox-192e45.netlify.app/) | Auth, service booking, JWT authentication |
-| **Orchid Website** | [Repo](https://github.com/aaliahammedpriom/orchid-client) | [Repo](https://github.com/aaliahammedpriom/orchid-server) | [Live](https://stirring-salamander-eeaf34.netlify.app/) | Role-based dashboards, dynamic search, mobile-first design |
-| **Taskly** (Task Manager) | [Repo](https://github.com/aaliahammedpriom/taskly-client) | [Repo](https://github.com/aaliahammedpriom/taskly-server) | [Live](https://taskly-66.web.app/) | Drag-and-drop tasks, Firebase authentication |
+<table>
+<tr>
+<td width="100%">
+
+#### 💬 Think Loop — MERN Discussion Forum
+![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
+![Express](https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+![JWT](https://img.shields.io/badge/JWT-000000?style=flat-square&logo=jsonwebtokens&logoColor=white)
+
+A full-stack MERN forum with authentication, post interactions, admin controls, and role-based access.
+
+🔗 [Client Repo](https://github.com/aaliahammedpriom/think-loop-client) · [Server Repo](https://github.com/aaliahammedpriom/think-loop-server) · [Live Demo](https://mellow-mandazi-3e1f97.netlify.app/)
+
+</td>
+</tr>
+
+<tr>
+<td width="100%">
+
+#### 🤝 HandsOn — Volunteering Platform
+![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
+![Express](https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+
+A MERN platform connecting volunteers with events, featuring event registration, in-app messaging, and contribution tracking.
+
+🔗 [Client Repo](https://github.com/aaliahammedpriom/hands-on-volunteering-platform-client) · [Server Repo](https://github.com/aaliahammedpriom/hands-on-volunteering-platform-server)
+
+</td>
+</tr>
+
+<tr>
+<td width="100%">
+
+#### 🚴 Iron Wheel — Service Booking Website
+![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
+![Express](https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+![JWT](https://img.shields.io/badge/JWT-000000?style=flat-square&logo=jsonwebtokens&logoColor=white)
+
+A MERN service-booking website with JWT authentication and a full service-booking workflow.
+
+🔗 [Client Repo](https://github.com/aaliahammedpriom/iron-wheel-client) · [Server Repo](https://github.com/aaliahammedpriom/iron-wheel-server) · [Live Demo](https://elegant-fox-192e45.netlify.app/)
+
+</td>
+</tr>
+
+<tr>
+<td width="100%">
+
+#### 🌸 Orchid — Role-Based Dashboard Website
+![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
+![Express](https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+
+A MERN website with role-based dashboards, dynamic search, and a mobile-first responsive design.
+
+🔗 [Client Repo](https://github.com/aaliahammedpriom/orchid-client) · [Server Repo](https://github.com/aaliahammedpriom/orchid-server) · [Live Demo](https://stirring-salamander-eeaf34.netlify.app/)
+
+</td>
+</tr>
+
+<tr>
+<td width="100%">
+
+#### ✅ Taskly — Drag-and-Drop Task Manager
+![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
+![Express](https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
+
+A task management app with drag-and-drop task boards and Firebase authentication.
+
+🔗 [Client Repo](https://github.com/aaliahammedpriom/taskly-client) · [Server Repo](https://github.com/aaliahammedpriom/taskly-server) · [Live Demo](https://taskly-66.web.app/)
+
+</td>
+</tr>
+</table>
 
 <div align="center">
 
