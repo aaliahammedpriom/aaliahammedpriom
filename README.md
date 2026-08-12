@@ -221,7 +221,7 @@ Backend-focused Full-Stack Developer at **Softvence Alpha** (a concern of Betopi
 
 <br/>
 
-<table>
+<table width="100%">
 <tr>
 <td width="100%">
 
@@ -378,7 +378,7 @@ A secure backend API for **workforce and payroll management** — contractor/dri
 
 <br/>
 
-<table>
+<table width="100%">
 <tr>
 <td width="100%">
 
