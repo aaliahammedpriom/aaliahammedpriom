@@ -187,7 +187,7 @@ Backend-focused Full-Stack Developer at **Softvence Alpha** (a concern of Betopi
 
 ---
 
-**◈ MERN Full Stack Developer** — Softvence Alpha (a concern of Betopia Group)
+**◈ Executive MERN Full Stack Developer** — Softvence Alpha (a concern of Betopia Group)
 `Nov 2025 – Present`
 - Developing and maintaining scalable web apps with the MERN Stack and Next.js
 - Designing and integrating REST APIs with Node.js, Express.js, MongoDB, PostgreSQL, and Prisma ORM
