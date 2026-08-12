@@ -10,24 +10,11 @@
 
 <br/>
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/a-ali-ahammed-priom/">
-    <img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
-  </a>
-  <a href="mailto:aaliahammedpriom66@gmail.com">
-    <img src="https://img.shields.io/badge/EMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
-  </a>
-  <a href="https://github.com/aaliahammedpriom">
-    <img src="https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
-  </a>
-  <a href="https://wa.me/8801722395159">
-    <img src="https://img.shields.io/badge/WHATSAPP-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp">
-  </a>
-  <a href="https://priom-dev.netlify.app/">
-    <img src="https://img.shields.io/badge/PORTFOLIO-00F5FF?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio">
-  </a>
-</p>
-
+[![LinkedIn](https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/a-ali-ahammed-priom/)
+[![Gmail](https://img.shields.io/badge/EMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=00F5FF&labelColor=0D1117)](mailto:aaliahammedpriom66@gmail.com)
+[![GitHub](https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&logo=github&logoColor=00F5FF&labelColor=0D1117)](https://github.com/aaliahammedpriom)
+[![WhatsApp](https://img.shields.io/badge/WHATSAPP-25D366?style=for-the-badge&logo=whatsapp&logoColor=00F5FF&labelColor=0D1117)](https://wa.me/8801722395159)
+[![Portfolio](https://img.shields.io/badge/PORTFOLIO-61DAFB?style=for-the-badge&logo=googlechrome&logoColor=00F5FF&labelColor=0D1117)](https://priom-dev.netlify.app/)
 </div>
 
 ## 🧠 About Me
