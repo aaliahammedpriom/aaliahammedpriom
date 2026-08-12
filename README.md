@@ -17,7 +17,10 @@
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=transparent&color=auto&height=70&section=header&text=About%20Me&fontSize=32&fontColor=00F5FF&fontAlignY=45&desc=%3E_whoami&descAlignY=68&descColor=8892b0" width="100%"/>
+## 🧠 About Me
+<sub><code>&gt;_whoami</code></sub>
+
+---
 
 Backend-focused Full-Stack Developer at **Softvence Alpha** (a concern of Betopia Group), building scalable and secure web applications with the **MERN stack, Next.js, PostgreSQL, and Prisma ORM**. Comfortable across the whole lifecycle — from designing REST APIs and auth systems to deploying and hardening them on a Linux VPS with Docker, Nginx, and PM2.
 
@@ -30,7 +33,10 @@ Backend-focused Full-Stack Developer at **Softvence Alpha** (a concern of Betopi
 - 📄 Enjoy writing detailed **bilingual (English + Bangla)** technical documentation and study guides
 - 🌟 **Fun fact:** I debug code the way other people solve puzzles — for fun
 
-<img src="https://capsule-render.vercel.app/api?type=transparent&color=auto&height=70&section=header&text=Tech%20Stack&fontSize=32&fontColor=B026FF&fontAlignY=45&desc=%3E_ls%20./skills&descAlignY=68&descColor=8892b0" width="100%"/>
+## 🛠️ Tech Stack
+<sub><code>&gt;_ls ./skills</code></sub>
+
+---
 
 <div align="center">
 
@@ -101,7 +107,10 @@ Backend-focused Full-Stack Developer at **Softvence Alpha** (a concern of Betopi
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=transparent&color=auto&height=70&section=header&text=Meta%20%26%20WhatsApp%20Platform&fontSize=28&fontColor=00F5FF&fontAlignY=45&desc=%3E_cat%20./integrations.log&descAlignY=68&descColor=8892b0" width="100%"/>
+## 📲 Meta & WhatsApp Platform
+<sub><code>&gt;_cat ./integrations.log</code></sub>
+
+---
 
 <div align="center">
 
@@ -126,7 +135,10 @@ Backend-focused Full-Stack Developer at **Softvence Alpha** (a concern of Betopi
 >
 > **Practical use cases:** OTP verification, automated notifications, transactional & marketing messaging, real-time delivery tracking, phone number setup and template lifecycle management
 
-<img src="https://capsule-render.vercel.app/api?type=transparent&color=auto&height=70&section=header&text=Payments%20%26%20Accounting%20Integrations&fontSize=26&fontColor=00F5FF&fontAlignY=45&desc=%3E_cat%20./payments.log&descAlignY=68&descColor=8892b0" width="100%"/>
+## 💳 Payments & Accounting Integrations
+<sub><code>&gt;_cat ./payments.log</code></sub>
+
+---
 
 <div align="center">
 
@@ -143,7 +155,10 @@ Backend-focused Full-Stack Developer at **Softvence Alpha** (a concern of Betopi
 >
 > **Backend Implementation:** Debugging authentication and access-token handling across third-party financial API integrations for reliable, production-grade payment automation
 
-<img src="https://capsule-render.vercel.app/api?type=transparent&color=auto&height=70&section=header&text=Support%20%26%20Ticketing%20Integrations&fontSize=26&fontColor=B026FF&fontAlignY=45&desc=%3E_cat%20./support.log&descAlignY=68&descColor=8892b0" width="100%"/>
+## 🎫 Support & Ticketing Integrations
+<sub><code>&gt;_cat ./support.log</code></sub>
+
+---
 
 <div align="center">
 
@@ -156,7 +171,10 @@ Backend-focused Full-Stack Developer at **Softvence Alpha** (a concern of Betopi
 >
 > **Backend Implementation:** Secure API authentication, backend endpoint development, and third-party API debugging to support customer support workflows
 
-<img src="https://capsule-render.vercel.app/api?type=transparent&color=auto&height=70&section=header&text=Currently%20Learning&fontSize=32&fontColor=B026FF&fontAlignY=45&desc=%3E_status%20--in-progress&descAlignY=68&descColor=8892b0" width="100%"/>
+## 📚 Currently Learning
+<sub><code>&gt;_status --in-progress</code></sub>
+
+---
 
 <div align="center">
 
@@ -164,7 +182,10 @@ Backend-focused Full-Stack Developer at **Softvence Alpha** (a concern of Betopi
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=transparent&color=auto&height=70&section=header&text=Experience&fontSize=32&fontColor=00F5FF&fontAlignY=45&desc=%3E_git%20log%20--career&descAlignY=68&descColor=8892b0" width="100%"/>
+## 💼 Experience
+<sub><code>&gt;_git log --career</code></sub>
+
+---
 
 **◈ MERN Full Stack Developer** — Softvence Alpha (a concern of Betopia Group)
 `Nov 2025 – Present`
@@ -185,7 +206,10 @@ Backend-focused Full-Stack Developer at **Softvence Alpha** (a concern of Betopi
 - Managed hosting environments via cPanel, including domains, email accounts, databases, and file management
 - Maintained production websites and resolved live server issues, ensuring reliable uptime
 
-<img src="https://capsule-render.vercel.app/api?type=transparent&color=auto&height=70&section=header&text=Featured%20Projects&fontSize=32&fontColor=B026FF&fontAlignY=45&desc=%3E_ls%20-la%20./projects&descAlignY=68&descColor=8892b0" width="100%"/>
+## 🚀 Featured Projects
+<sub><code>&gt;_ls -la ./projects</code></sub>
+
+---
 
 <div align="center">
 
@@ -368,7 +392,10 @@ A secure backend API for **workforce and payroll management** — contractor/dri
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=transparent&color=auto&height=70&section=header&text=GitHub%20Stats&fontSize=32&fontColor=00F5FF&fontAlignY=45&desc=%3E_fetch%20--stats&descAlignY=68&descColor=8892b0" width="100%"/>
+## 📊 GitHub Stats
+<sub><code>&gt;_fetch --stats</code></sub>
+
+---
 
 <div align="center">
   <img src="https://github-readme-stats-fast.vercel.app/api?username=aaliahammedpriom&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&border_radius=10&count_private=true&cache_seconds=1800" height="165" alt="GitHub stats" />
@@ -383,7 +410,10 @@ A secure backend API for **workforce and payroll management** — contractor/dri
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=aaliahammedpriom&theme=tokyo-night&hide_border=true&bg_color=0D1117&area=true" height="300" alt="Activity Graph" />
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=transparent&color=auto&height=70&section=header&text=Contribution%20Snake&fontSize=28&fontColor=00F5FF&fontAlignY=45&desc=%3E_render%20--animated&descAlignY=68&descColor=8892b0" width="100%"/>
+## 🐍 Contribution Snake
+<sub><code>&gt;_render --animated</code></sub>
+
+---
 
 <div align="center">
   <img src="https://raw.githubusercontent.com/aaliahammedpriom/aaliahammedpriom/output/github-contribution-grid-snake-dark.svg" alt="Contribution Snake animation" width="100%" />
