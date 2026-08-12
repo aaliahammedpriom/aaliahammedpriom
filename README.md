@@ -462,11 +462,6 @@ A task management app with drag-and-drop task boards and Firebase authentication
 </tr>
 </table>
 
-<div align="center">
-
-🌐 **[Portfolio →](https://priom-dev.netlify.app/)**
-
-</div>
 
 ## 📊 GitHub Stats
 <sub><code>&gt;_fetch --stats</code></sub>
