@@ -14,6 +14,7 @@
 [![Gmail](https://img.shields.io/badge/EMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=00F5FF&labelColor=0D1117)](mailto:aaliahammedpriom66@gmail.com)
 [![GitHub](https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&logo=github&logoColor=00F5FF&labelColor=0D1117)](https://github.com/aaliahammedpriom)
 [![WhatsApp](https://img.shields.io/badge/WHATSAPP-25D366?style=for-the-badge&logo=whatsapp&logoColor=00F5FF&labelColor=0D1117)](https://wa.me/8801722395159)
+[![Portfolio]([https://img.shields.io/badge/PORTFOLIO-00F5FF?style=for-the-badge&logo=googlechrome&logoColor=00F5FF&labelColor=0D1117)](https://priom-dev.netlify.app/)](https://priom-dev.netlify.app/)
 
 </div>
 
