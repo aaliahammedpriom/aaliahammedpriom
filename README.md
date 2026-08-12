@@ -370,7 +370,7 @@ A secure backend API for **workforce and payroll management** — contractor/dri
 </tr>
 </table>
 
-<div width="100%">
+<div align="center">
 
 ### 🌱 Personal / Open Source Projects
 
