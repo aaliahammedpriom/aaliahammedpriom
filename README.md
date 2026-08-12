@@ -42,9 +42,11 @@ Backend-focused Full-Stack Developer at **Softvence Alpha** (a concern of Betopi
 [![TypeScript](https://img.shields.io/badge/TYPESCRIPT-3178C6?style=for-the-badge&logo=typescript&logoColor=white&labelColor=0D1117)](https://www.typescriptlang.org/)
 [![React](https://img.shields.io/badge/REACT-61DAFB?style=for-the-badge&logo=react&logoColor=61DAFB&labelColor=0D1117)](https://react.dev/)
 [![Next.js](https://img.shields.io/badge/NEXT.JS-000000?style=for-the-badge&logo=nextdotjs&logoColor=white&labelColor=0D1117)](https://nextjs.org/)
+[![Vite](https://img.shields.io/badge/VITE-646CFF?style=for-the-badge&logo=vite&logoColor=646CFF&labelColor=0D1117)](https://vitejs.dev/)
 [![Tailwind CSS](https://img.shields.io/badge/TAILWIND-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=06B6D4&labelColor=0D1117)](https://tailwindcss.com/)
 [![Bootstrap](https://img.shields.io/badge/BOOTSTRAP-7952B3?style=for-the-badge&logo=bootstrap&logoColor=7952B3&labelColor=0D1117)](https://getbootstrap.com/)
 [![Material UI](https://img.shields.io/badge/MUI-007FFF?style=for-the-badge&logo=mui&logoColor=007FFF&labelColor=0D1117)](https://mui.com/)
+[![Ant Design](https://img.shields.io/badge/ANT_DESIGN-0170FE?style=for-the-badge&logo=antdesign&logoColor=0170FE&labelColor=0D1117)](https://ant.design/)
 
 <br/>
 
@@ -56,8 +58,10 @@ Backend-focused Full-Stack Developer at **Softvence Alpha** (a concern of Betopi
 [![Laravel](https://img.shields.io/badge/LARAVEL-FF2D20?style=for-the-badge&logo=laravel&logoColor=FF2D20&labelColor=0D1117)](https://laravel.com/)
 [![Prisma](https://img.shields.io/badge/PRISMA-2D3748?style=for-the-badge&logo=prisma&logoColor=white&labelColor=0D1117)](https://www.prisma.io/)
 [![JWT](https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white&labelColor=0D1117)](https://jwt.io/)
+[![Socket.IO](https://img.shields.io/badge/SOCKET.IO-010101?style=for-the-badge&logo=socketdotio&logoColor=white&labelColor=0D1117)](https://socket.io/)
 [![Firebase](https://img.shields.io/badge/FIREBASE-FFCA28?style=for-the-badge&logo=firebase&logoColor=FFCA28&labelColor=0D1117)](https://firebase.google.com/)
 [![Swagger](https://img.shields.io/badge/SWAGGER-85EA2D?style=for-the-badge&logo=swagger&logoColor=85EA2D&labelColor=0D1117)](https://swagger.io/)
+[![Zod](https://img.shields.io/badge/ZOD-3E67B1?style=for-the-badge&logo=zod&logoColor=white&labelColor=0D1117)](https://zod.dev/)
 [![Jest](https://img.shields.io/badge/JEST-C21325?style=for-the-badge&logo=jest&logoColor=white&labelColor=0D1117)](https://jestjs.io/)
 
 <br/>
@@ -79,6 +83,8 @@ Backend-focused Full-Stack Developer at **Softvence Alpha** (a concern of Betopi
 [![Ubuntu](https://img.shields.io/badge/UBUNTU-E95420?style=for-the-badge&logo=ubuntu&logoColor=E95420&labelColor=0D1117)](https://ubuntu.com/)
 [![GitHub Actions](https://img.shields.io/badge/GH_ACTIONS-2088FF?style=for-the-badge&logo=githubactions&logoColor=2088FF&labelColor=0D1117)](https://github.com/features/actions)
 [![PM2](https://img.shields.io/badge/PM2-2B037A?style=for-the-badge&logo=pm2&logoColor=white&labelColor=0D1117)](https://pm2.keymetrics.io/)
+[![Vercel](https://img.shields.io/badge/VERCEL-000000?style=for-the-badge&logo=vercel&logoColor=white&labelColor=0D1117)](https://vercel.com/)
+[![Netlify](https://img.shields.io/badge/NETLIFY-00C7B7?style=for-the-badge&logo=netlify&logoColor=00C7B7&labelColor=0D1117)](https://www.netlify.com/)
 [![Git](https://img.shields.io/badge/GIT-F05032?style=for-the-badge&logo=git&logoColor=F05032&labelColor=0D1117)](https://git-scm.com/)
 
 <br/>
@@ -179,7 +185,174 @@ Backend-focused Full-Stack Developer at **Softvence Alpha** (a concern of Betopi
 - Managed hosting environments via cPanel, including domains, email accounts, databases, and file management
 - Maintained production websites and resolved live server issues, ensuring reliable uptime
 
-<img src="https://capsule-render.vercel.app/api?type=transparent&color=auto&height=70&section=header&text=Pinned%20Repositories&fontSize=30&fontColor=B026FF&fontAlignY=45&desc=%3E_ls%20./projects&descAlignY=68&descColor=8892b0" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=transparent&color=auto&height=70&section=header&text=Featured%20Projects&fontSize=32&fontColor=B026FF&fontAlignY=45&desc=%3E_ls%20-la%20./projects&descAlignY=68&descColor=8892b0" width="100%"/>
+
+<div align="center">
+
+### 🏢 Production & Client Systems
+
+<sub>Full-stack platforms built and maintained in production environments · repositories are private client work</sub>
+
+</div>
+
+<br/>
+
+<table>
+<tr>
+<td width="100%">
+
+#### 🛒 Direct Bazar — E-Commerce & Delivery Platform Backend
+`🔒 Private Repository` · `Node.js` · `Express` · `MongoDB` · `Role: Backend Developer`
+
+A Node.js/Express backend for a **multi-role e-commerce marketplace** — customers, admins, and delivery drivers — covering the full commerce lifecycle from product catalog to checkout, payment, and delivery.
+
+**Tech Stack:**
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
+![Express](https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+![Mongoose](https://img.shields.io/badge/Mongoose-880000?style=flat-square&logo=mongoose&logoColor=white)
+![JWT](https://img.shields.io/badge/JWT-000000?style=flat-square&logo=jsonwebtokens&logoColor=white)
+![Stripe](https://img.shields.io/badge/Stripe-635BFF?style=flat-square&logo=stripe&logoColor=white)
+![Socket.IO](https://img.shields.io/badge/Socket.IO-010101?style=flat-square&logo=socketdotio&logoColor=white)
+![Cloudinary](https://img.shields.io/badge/Cloudinary-3448C5?style=flat-square&logo=cloudinary&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white)
+
+**Highlights:**
+- Multi-role architecture (customer / admin / driver) with JWT auth, cookie sessions, and role-based middleware
+- Product catalog, cart, wishlist, promo codes, and full order lifecycle management
+- Stripe checkout sessions, payment intents, and driver payout transfers
+- Real-time chat and live delivery tracking via Socket.IO
+- Firebase Cloud Messaging push notifications + Cloudinary media pipeline
+- Hardened with Helmet, HPP, XSS sanitization, and rate limiting; deployed on Vercel
+
+</td>
+</tr>
+
+<tr>
+<td width="100%">
+
+#### 🍽️ RMSYM — Restaurant Management & Partner Portal
+`🔒 Private Repository` · `React` · `Node.js` · `Prisma` · `PostgreSQL` · `Role: Backend Developer`
+
+A full-stack **restaurant operations platform** unifying a marketing website, role-based partner/manager dashboards, restaurant & menu management, job applications, and customer support — including the Freshdesk integration Priom built.
+
+**Tech Stack:**
+![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
+![Express](https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white)
+![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=flat-square&logo=prisma&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![Socket.IO](https://img.shields.io/badge/Socket.IO-010101?style=flat-square&logo=socketdotio&logoColor=white)
+![Freshdesk](https://img.shields.io/badge/Freshdesk-000000?style=flat-square&logo=freshdesk&logoColor=white)
+![Cloudinary](https://img.shields.io/badge/Cloudinary-3448C5?style=flat-square&logo=cloudinary&logoColor=white)
+
+**Highlights:**
+- Role-based dashboards for **partner**, **account-manager**, and **admin** users with invite-based onboarding
+- Versioned REST API (`/api/v1`) for restaurants, outlets, menus, and categories
+- Freshdesk Ticketing & Chat API integration for customer support workflows
+- Real-time support chat via Socket.IO
+- CMS-driven public pages (home, features, about, careers, delivery platforms, how-it-works)
+- OTP verification, password recovery, and JWT + refresh-token authentication with RBAC
+
+</td>
+</tr>
+
+<tr>
+<td width="100%">
+
+#### 🧘 Evolume — Wellness & Ritual Platform
+`🔒 Private Repository` · `Next.js` · `Node.js` · `Prisma` · `PostgreSQL` · `Role: Backend Developer`
+
+A **digital wellness platform** combining a Next.js end-user client, a Vite-based admin/content dashboard, and a Node.js/Express API for onboarding, guided rituals, journaling, and subscription-based content management.
+
+**Tech Stack:**
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
+![Express](https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white)
+![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=flat-square&logo=prisma&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Socket.IO](https://img.shields.io/badge/Socket.IO-010101?style=flat-square&logo=socketdotio&logoColor=white)
+![Cloudinary](https://img.shields.io/badge/Cloudinary-3448C5?style=flat-square&logo=cloudinary&logoColor=white)
+
+**Highlights:**
+- Personalized onboarding flow, guided rituals, and journaling features for end users
+- Admin CMS for managing rituals, subscriptions, notifications, and onboarding content
+- JWT access/refresh-token authentication with role-based access for admins/content managers
+- Dockerized backend with Docker Compose for consistent local & deployment environments
+- Zod/Joi-based request validation and Cloudinary-backed media handling
+
+</td>
+</tr>
+
+<tr>
+<td width="100%">
+
+#### 🏘️ Korie Thomas — Property CMS & Marketing Platform
+`🔒 Private Repository` · `React` · `Node.js` · `Prisma` · `PostgreSQL` · `Role: Backend Developer`
+
+A **CMS-driven property marketing platform** for a real-estate project (David Crescent), pairing a public React/Vite marketing site with a React admin dashboard for content and media management.
+
+**Tech Stack:**
+![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
+![Express](https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white)
+![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=flat-square&logo=prisma&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![Cloudinary](https://img.shields.io/badge/Cloudinary-3448C5?style=flat-square&logo=cloudinary&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white)
+![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=flat-square&logo=netlify&logoColor=white)
+
+**Highlights:**
+- Admin dashboard for editing hero banners, galleries, and content sections without touching code
+- Cloudinary-based media upload and deletion pipeline for images and videos
+- JWT + cookie-based auth with password reset, email verification, and role checks (admin/manager/partner)
+- Reusable backend services for CMS record management and file handling
+- Frontend deployed via Vercel/Netlify with PM2-managed backend process
+
+</td>
+</tr>
+
+<tr>
+<td width="100%">
+
+#### 🚚 Sydney Server — Contractor & Payroll Management API
+`🔒 Private Repository` · `Node.js` · `Prisma` · `PostgreSQL` · `Redis` · `Role: Backend Developer`
+
+A secure backend API for **workforce and payroll management** — contractor/driver onboarding, access requests, configurable pay presets, and CSV-based payroll processing.
+
+**Tech Stack:**
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
+![Express](https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white)
+![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=flat-square&logo=prisma&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
+![Socket.IO](https://img.shields.io/badge/Socket.IO-010101?style=flat-square&logo=socketdotio&logoColor=white)
+![Cloudinary](https://img.shields.io/badge/Cloudinary-3448C5?style=flat-square&logo=cloudinary&logoColor=white)
+![Jest](https://img.shields.io/badge/Jest-C21325?style=flat-square&logo=jest&logoColor=white)
+
+**Highlights:**
+- JWT access/refresh-token auth with rotation, email verification, and password reset
+- Fine-grained role- and permission-based access control across API modules
+- CSV-driven payroll processing: ingestion, aggregation, and pay calculation
+- Redis-backed caching and rate limiting for performance and API resilience
+- Security hardening: CSRF protection, HPP, XSS sanitization, and Zod validation
+
+</td>
+</tr>
+</table>
+
+<div align="center">
+
+### 🌱 Personal / Open Source Projects
+
+</div>
+
+<br/>
 
 | Project | Client | Server | Live | Highlights |
 |---|---|---|---|---|
