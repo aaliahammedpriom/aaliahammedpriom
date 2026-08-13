@@ -50,10 +50,14 @@ Backend-focused Full-Stack Developer at **Softvence Alpha** (a concern of Betopi
 [![React](https://img.shields.io/badge/REACT-61DAFB?style=for-the-badge&logo=react&logoColor=61DAFB&labelColor=0D1117)](https://react.dev/)
 [![Next.js](https://img.shields.io/badge/NEXT.JS-000000?style=for-the-badge&logo=nextdotjs&logoColor=white&labelColor=0D1117)](https://nextjs.org/)
 [![Vite](https://img.shields.io/badge/VITE-646CFF?style=for-the-badge&logo=vite&logoColor=646CFF&labelColor=0D1117)](https://vitejs.dev/)
+[![TanStack Query](https://img.shields.io/badge/TANSTACK_QUERY-FF4154?style=for-the-badge&logo=reactquery&logoColor=FF4154&labelColor=0D1117)](https://tanstack.com/query/latest)
 [![Tailwind CSS](https://img.shields.io/badge/TAILWIND-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=06B6D4&labelColor=0D1117)](https://tailwindcss.com/)
 [![Bootstrap](https://img.shields.io/badge/BOOTSTRAP-7952B3?style=for-the-badge&logo=bootstrap&logoColor=7952B3&labelColor=0D1117)](https://getbootstrap.com/)
 [![Material UI](https://img.shields.io/badge/MUI-007FFF?style=for-the-badge&logo=mui&logoColor=007FFF&labelColor=0D1117)](https://mui.com/)
+[![Chakra UI](https://img.shields.io/badge/CHAKRA_UI-319795?style=for-the-badge&logo=chakraui&logoColor=319795&labelColor=0D1117)](https://chakra-ui.com/)
+[![Shadcn/UI](https://img.shields.io/badge/SHADCN%2FUI-000000?style=for-the-badge&logo=shadcnui&logoColor=white&labelColor=0D1117)](https://ui.shadcn.com/)
 [![Ant Design](https://img.shields.io/badge/ANT_DESIGN-0170FE?style=for-the-badge&logo=antdesign&logoColor=0170FE&labelColor=0D1117)](https://ant.design/)
+[![Framer Motion](https://img.shields.io/badge/FRAMER_MOTION-0055FF?style=for-the-badge&logo=framer&logoColor=0055FF&labelColor=0D1117)](https://www.framer.com/motion/)
 
 <br/>
 
@@ -64,10 +68,13 @@ Backend-focused Full-Stack Developer at **Softvence Alpha** (a concern of Betopi
 [![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=777BB4&labelColor=0D1117)](https://www.php.net/)
 [![Laravel](https://img.shields.io/badge/LARAVEL-FF2D20?style=for-the-badge&logo=laravel&logoColor=FF2D20&labelColor=0D1117)](https://laravel.com/)
 [![Prisma](https://img.shields.io/badge/PRISMA-2D3748?style=for-the-badge&logo=prisma&logoColor=white&labelColor=0D1117)](https://www.prisma.io/)
+[![REST APIs](https://img.shields.io/badge/RESTFUL_APIS-005571?style=for-the-badge&logo=fastapi&logoColor=white&labelColor=0D1117)](https://restfulapi.net/)
+[![Webhooks](https://img.shields.io/badge/WEBHOOKS-FF4785?style=for-the-badge&logo=webhooks&logoColor=FF4785&labelColor=0D1117)](https://developers.facebook.com/docs/graph-api/webhooks)
+[![OAuth 2.0](https://img.shields.io/badge/OAUTH_2.0-000000?style=for-the-badge&logo=auth0&logoColor=white&labelColor=0D1117)](https://oauth.net/2/)
+[![Swagger](https://img.shields.io/badge/SWAGGER-85EA2D?style=for-the-badge&logo=swagger&logoColor=85EA2D&labelColor=0D1117)](https://swagger.io/)
 [![JWT](https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white&labelColor=0D1117)](https://jwt.io/)
 [![Socket.IO](https://img.shields.io/badge/SOCKET.IO-010101?style=for-the-badge&logo=socketdotio&logoColor=white&labelColor=0D1117)](https://socket.io/)
 [![Firebase](https://img.shields.io/badge/FIREBASE-FFCA28?style=for-the-badge&logo=firebase&logoColor=FFCA28&labelColor=0D1117)](https://firebase.google.com/)
-[![Swagger](https://img.shields.io/badge/SWAGGER-85EA2D?style=for-the-badge&logo=swagger&logoColor=85EA2D&labelColor=0D1117)](https://swagger.io/)
 [![Zod](https://img.shields.io/badge/ZOD-3E67B1?style=for-the-badge&logo=zod&logoColor=white&labelColor=0D1117)](https://zod.dev/)
 [![Jest](https://img.shields.io/badge/JEST-C21325?style=for-the-badge&logo=jest&logoColor=white&labelColor=0D1117)](https://jestjs.io/)
 
@@ -77,36 +84,75 @@ Backend-focused Full-Stack Developer at **Softvence Alpha** (a concern of Betopi
 <br/>
 [![PostgreSQL](https://img.shields.io/badge/POSTGRESQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white&labelColor=0D1117)](https://www.postgresql.org/)
 [![MongoDB](https://img.shields.io/badge/MONGODB-47A248?style=for-the-badge&logo=mongodb&logoColor=47A248&labelColor=0D1117)](https://www.mongodb.com/)
+[![Mongoose](https://img.shields.io/badge/MONGOOSE-880000?style=for-the-badge&logo=mongoose&logoColor=white&labelColor=0D1117)](https://mongoosejs.com/)
 [![MySQL](https://img.shields.io/badge/MYSQL-4479A1?style=for-the-badge&logo=mysql&logoColor=4479A1&labelColor=0D1117)](https://www.mysql.com/)
 [![Redis](https://img.shields.io/badge/REDIS-DC382D?style=for-the-badge&logo=redis&logoColor=DC382D&labelColor=0D1117)](https://redis.io/)
 [![RabbitMQ](https://img.shields.io/badge/RABBITMQ-FF6600?style=for-the-badge&logo=rabbitmq&logoColor=FF6600&labelColor=0D1117)](https://www.rabbitmq.com/)
 
 <br/>
 
+**◤ AUTH & SECURITY ◢**
+<br/>
+[![JWT](https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white&labelColor=0D1117)](https://jwt.io/)
+[![Firebase Auth](https://img.shields.io/badge/FIREBASE_AUTH-FFCA28?style=for-the-badge&logo=firebase&logoColor=FFCA28&labelColor=0D1117)](https://firebase.google.com/docs/auth)
+[![Kinde](https://img.shields.io/badge/KINDE-000000?style=for-the-badge&logoColor=white&labelColor=0D1117)](https://kinde.com/)
+[![RBAC](https://img.shields.io/badge/RBAC-2D3748?style=for-the-badge&labelColor=0D1117)](#)
+[![PBAC](https://img.shields.io/badge/PBAC-2D3748?style=for-the-badge&labelColor=0D1117)](#)
+[![Bcrypt](https://img.shields.io/badge/BCRYPT-2D3748?style=for-the-badge&labelColor=0D1117)](#)
+[![SHA256](https://img.shields.io/badge/SHA256-2D3748?style=for-the-badge&labelColor=0D1117)](#)
+[![OWASP](https://img.shields.io/badge/OWASP-000000?style=for-the-badge&logo=owasp&logoColor=white&labelColor=0D1117)](https://owasp.org/)
+
+<br/>
+
 **◤ DEVOPS & INFRASTRUCTURE ◢**
 <br/>
 [![Docker](https://img.shields.io/badge/DOCKER-2496ED?style=for-the-badge&logo=docker&logoColor=2496ED&labelColor=0D1117)](https://www.docker.com/)
+[![Docker Compose](https://img.shields.io/badge/DOCKER_COMPOSE-2496ED?style=for-the-badge&logo=docker&logoColor=2496ED&labelColor=0D1117)](https://docs.docker.com/compose/)
+[![Docker Swarm](https://img.shields.io/badge/DOCKER_SWARM-2496ED?style=for-the-badge&logo=docker&logoColor=2496ED&labelColor=0D1117)](https://docs.docker.com/engine/swarm/)
 [![Nginx](https://img.shields.io/badge/NGINX-009639?style=for-the-badge&logo=nginx&logoColor=009639&labelColor=0D1117)](https://nginx.org/)
 [![Ubuntu](https://img.shields.io/badge/UBUNTU-E95420?style=for-the-badge&logo=ubuntu&logoColor=E95420&labelColor=0D1117)](https://ubuntu.com/)
-[![GitHub Actions](https://img.shields.io/badge/GH_ACTIONS-2088FF?style=for-the-badge&logo=githubactions&logoColor=2088FF&labelColor=0D1117)](https://github.com/features/actions)
 [![PM2](https://img.shields.io/badge/PM2-2B037A?style=for-the-badge&logo=pm2&logoColor=white&labelColor=0D1117)](https://pm2.keymetrics.io/)
+[![Hostinger VPS](https://img.shields.io/badge/HOSTINGER_VPS-673DE6?style=for-the-badge&logo=hostinger&logoColor=white&labelColor=0D1117)](https://www.hostinger.com/vps-hosting)
+[![GitHub Actions](https://img.shields.io/badge/GH_ACTIONS-2088FF?style=for-the-badge&logo=githubactions&logoColor=2088FF&labelColor=0D1117)](https://github.com/features/actions)
+[![CI/CD](https://img.shields.io/badge/CI%2FCD-2D3748?style=for-the-badge&labelColor=0D1117)](#)
+[![DNS](https://img.shields.io/badge/DOMAIN_%26_DNS-2D3748?style=for-the-badge&labelColor=0D1117)](#)
+[![Load Balancer](https://img.shields.io/badge/LOAD_BALANCER-2D3748?style=for-the-badge&labelColor=0D1117)](#)
 [![Vercel](https://img.shields.io/badge/VERCEL-000000?style=for-the-badge&logo=vercel&logoColor=white&labelColor=0D1117)](https://vercel.com/)
 [![Netlify](https://img.shields.io/badge/NETLIFY-00C7B7?style=for-the-badge&logo=netlify&logoColor=00C7B7&labelColor=0D1117)](https://www.netlify.com/)
 [![Git](https://img.shields.io/badge/GIT-F05032?style=for-the-badge&logo=git&logoColor=F05032&labelColor=0D1117)](https://git-scm.com/)
+[![GitHub](https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=0D1117)](https://github.com/)
 
 <br/>
 
-**◤ SECURITY & INTEGRATIONS ◢**
+**◤ INTEGRATIONS & PAYMENTS ◢**
 <br/>
-[![OWASP](https://img.shields.io/badge/OWASP-000000?style=for-the-badge&logo=owasp&logoColor=white&labelColor=0D1117)](https://owasp.org/)
 [![Stripe](https://img.shields.io/badge/STRIPE-635BFF?style=for-the-badge&logo=stripe&logoColor=635BFF&labelColor=0D1117)](https://stripe.com/)
 [![Xero](https://img.shields.io/badge/XERO-13B5EA?style=for-the-badge&logo=xero&logoColor=13B5EA&labelColor=0D1117)](https://www.xero.com/)
+[![WhatsApp Cloud API](https://img.shields.io/badge/WHATSAPP_CLOUD_API-25D366?style=for-the-badge&logo=whatsapp&logoColor=25D366&labelColor=0D1117)](https://developers.facebook.com/docs/whatsapp/cloud-api)
+[![Meta Graph API](https://img.shields.io/badge/META_GRAPH_API-1877F2?style=for-the-badge&logo=meta&logoColor=1877F2&labelColor=0D1117)](https://developers.facebook.com/docs/graph-api/)
 [![Freshdesk](https://img.shields.io/badge/FRESHDESK-000000?style=for-the-badge&logo=freshdesk&logoColor=white&labelColor=0D1117)](https://www.freshworks.com/freshdesk/)
-[![OAuth](https://img.shields.io/badge/OAUTH_2.0-000000?style=for-the-badge&logo=auth0&logoColor=white&labelColor=0D1117)](https://oauth.net/2/)
 [![Cloudinary](https://img.shields.io/badge/CLOUDINARY-3448C5?style=for-the-badge&logo=cloudinary&logoColor=3448C5&labelColor=0D1117)](https://cloudinary.com/)
+[![Multer](https://img.shields.io/badge/MULTER-2D3748?style=for-the-badge&labelColor=0D1117)](https://github.com/expressjs/multer)
+
+<br/>
+
+**◤ TOOLS, OS & LANGUAGES ◢**
+<br/>
+[![VS Code](https://img.shields.io/badge/VS_CODE-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=007ACC&labelColor=0D1117)](https://code.visualstudio.com/)
 [![Postman](https://img.shields.io/badge/POSTMAN-FF6C37?style=for-the-badge&logo=postman&logoColor=FF6C37&labelColor=0D1117)](https://www.postman.com/)
+[![cPanel](https://img.shields.io/badge/CPANEL-FF6C2C?style=for-the-badge&logo=cpanel&logoColor=FF6C2C&labelColor=0D1117)](https://cpanel.net/)
+[![Figma](https://img.shields.io/badge/FIGMA-F24E1E?style=for-the-badge&logo=figma&logoColor=F24E1E&labelColor=0D1117)](https://www.figma.com/)
+[![Canva](https://img.shields.io/badge/CANVA-00C4CC?style=for-the-badge&logo=canva&logoColor=00C4CC&labelColor=0D1117)](https://www.canva.com/)
+[![Chrome DevTools](https://img.shields.io/badge/CHROME_DEVTOOLS-4285F4?style=for-the-badge&logo=googlechrome&logoColor=4285F4&labelColor=0D1117)](https://developer.chrome.com/docs/devtools/)
+[![SEO](https://img.shields.io/badge/SEO_OPTIMIZATION-2D3748?style=for-the-badge&labelColor=0D1117)](#)
+[![Windows](https://img.shields.io/badge/WINDOWS-0078D6?style=for-the-badge&logo=windows&logoColor=0078D6&labelColor=0D1117)](https://www.microsoft.com/windows)
+[![Kali Linux](https://img.shields.io/badge/KALI_LINUX_(WSL)-557C94?style=for-the-badge&logo=kalilinux&logoColor=557C94&labelColor=0D1117)](https://www.kali.org/)
+[![Java](https://img.shields.io/badge/JAVA-007396?style=for-the-badge&logo=openjdk&logoColor=007396&labelColor=0D1117)](https://www.java.com/)
 
 </div>
+
+> **Soft Skills:** Problem Solving · Teamwork · Communication · Attention to Detail · Continuous Learning
+
 
 ## 📲 Meta & WhatsApp Platform
 <sub><code>&gt;_cat ./integrations.log</code></sub>
