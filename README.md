@@ -345,6 +345,36 @@ A **CMS-driven property marketing platform** for a real-estate project (David Cr
 <tr>
 <td width="100%">
 
+#### ✈️ POLI Server — Headless Travel CMS & Booking Engine API
+`🔒 Private Repository` · `TypeScript` · `Express 5` · `Prisma` · `PostgreSQL` · `Redis` · `Role: Backend Developer`
+
+A production-grade, layered-modular-monolith backend for a travel & tourism platform — headless CMS for destinations, journeys, and pages, plus multi-device auth, wishlists, and a self-generating API doc pipeline.
+
+**Tech Stack:**
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![Express](https://img.shields.io/badge/Express_5-000000?style=flat-square&logo=express&logoColor=white)
+![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=flat-square&logo=prisma&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
+![Socket.IO](https://img.shields.io/badge/Socket.IO-010101?style=flat-square&logo=socketdotio&logoColor=white)
+![Cloudinary](https://img.shields.io/badge/Cloudinary-3448C5?style=flat-square&logo=cloudinary&logoColor=white)
+![Swagger](https://img.shields.io/badge/Swagger-85EA2D?style=flat-square&logo=swagger&logoColor=black)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+
+**Highlights:**
+- Multi-device JWT auth with hashed refresh-token session families, device fingerprinting, and brute-force lockout
+- Headless CMS for destinations, journeys, itineraries, inclusions, pricing, and page sections via generic CRUD services
+- Redis cache-aside layer with tag-based invalidation on writes, cutting catalog read latency to under 20ms
+- Dynamic OpenAPI/Swagger docs auto-generated at runtime from Zod schemas and route metadata — zero manual spec maintenance
+- Cloudinary streaming upload pipeline with automatic orphan-file cleanup on record updates
+- Granular Action × Resource × Scope (`OWN`/`ANY`/`OTHER`) RBAC, Socket.IO real-time events, and PM2 cluster + multi-stage Docker deployment
+
+</td>
+</tr>
+
+<tr>
+<td width="100%">
+
 #### 🚚 Sydney Server — Contractor & Payroll Management API
 `🔒 Private Repository` · `Node.js` · `Prisma` · `PostgreSQL` · `Redis` · `Role: Backend Developer`
 
