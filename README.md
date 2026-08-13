@@ -15,6 +15,7 @@
 [![GitHub](https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&logo=github&logoColor=00F5FF&labelColor=0D1117)](https://github.com/aaliahammedpriom)
 [![WhatsApp](https://img.shields.io/badge/WHATSAPP-25D366?style=for-the-badge&logo=whatsapp&logoColor=00F5FF&labelColor=0D1117)](https://wa.me/8801722395159)
 [![Portfolio](https://img.shields.io/badge/PORTFOLIO-61DAFB?style=for-the-badge&logo=googlechrome&logoColor=00F5FF&labelColor=0D1117)](https://priom-dev.netlify.app/)
+
 </div>
 
 ## 🧠 About Me
@@ -22,15 +23,15 @@
 
 ---
 
-Backend-focused Full-Stack Developer at **Softvence Alpha** (a concern of Betopia Group), building scalable and secure web applications with the **MERN stack, Next.js, PostgreSQL, and Prisma ORM**. Comfortable across the whole lifecycle — from designing REST APIs and auth systems to deploying and hardening them on a Linux VPS with Docker, Nginx, and PM2.
+Backend-focused Full-Stack Developer at **Softvence Alpha** (a concern of Betopia Group), building scalable, secure web platforms with the **MERN stack, Next.js, PostgreSQL, and Prisma ORM**. I work across the full lifecycle — designing REST APIs and auth systems, integrating third-party services, and deploying/hardening everything on a Linux VPS with Docker, Nginx, and PM2.
 
 - 🎓 Pursuing an **MSc in Cyber Security** at Daffodil International University, on top of a BSc in Software Engineering
-- 📲 Hands-on production experience integrating the **Meta Business Platform & WhatsApp Cloud API** — webhooks, templates, OTP verification, and messaging systems
-- 💳 Built production integrations with **Xero Accounting API, Stripe & Freshdesk** — OAuth 2.0, invoice automation, payment/webhook workflows, and support-ticket synchronization
-- 🌐 Background in **PHP/Laravel web development, cPanel hosting administration, and SEO optimization** for production websites
-- 🔐 Actively moving deeper into **DevOps and application security** — Docker, CI/CD, OWASP fundamentals, secure API design
+- 📲 Production experience with the **Meta Business Platform & WhatsApp Cloud API** — webhooks, message templates, OTP verification flows
+- 💳 Built production integrations with **Xero Accounting API, Stripe, and Freshdesk** — OAuth 2.0, invoice automation, payment/webhook workflows, support-ticket sync
+- 🌐 Background in **PHP/Laravel development, cPanel hosting administration, and SEO** for production websites
+- 🔐 Actively deepening **DevOps and application security** skills — Docker, CI/CD, OWASP fundamentals, secure API design
 - 📚 Currently exploring **Kubernetes, GraphQL, RabbitMQ, microservices, system design, ethical hacking, and blockchain**
-- 📄 Enjoy writing detailed **bilingual (English + Bangla)** technical documentation and study guides
+- 📄 I enjoy writing detailed **bilingual (English + Bangla)** technical documentation and study guides
 - 🌟 **Fun fact:** I debug code the way other people solve puzzles — for fun
 
 ## 🛠️ Tech Stack
@@ -461,7 +462,6 @@ A task management app with drag-and-drop task boards and Firebase authentication
 </td>
 </tr>
 </table>
-
 
 ## 📊 GitHub Stats
 <sub><code>&gt;_fetch --stats</code></sub>
